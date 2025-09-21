@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile! I love building **scalable, interactive applications** for restaurants and businesses.  
 
-![Profile Banner](https://media.giphy.com/media/3o7TKU8RvQuomFfUUU/giphy.gif)
+
 
 ---
 
