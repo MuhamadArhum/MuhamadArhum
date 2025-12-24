@@ -1,47 +1,95 @@
-# Hi, I'm Muhamad Arhum 👋
+<h1 align="center">Hi 👋, I'm Muhamad Arhum</h1>
+<h3 align="center">Full-Stack MERN Developer | POS Systems Specialist 🚀</h3>
 
-🚀 **Aspiring Full-Stack Developer | POS Systems Enthusiast | React & Node.js**  
-
-Welcome to my GitHub profile! I love building **scalable, interactive applications** for restaurants and businesses.  
-
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🛠️ Skills
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white)
+## 🚀 About Me
+💻 Passionate **Full-Stack Developer** focused on building  
+**modern POS systems & business solutions**  
+
+🍽️ Specialized in **Restaurant POS, Inventory & Billing Systems**  
+⚡ Love working with **React, Node.js & MongoDB**  
+📊 Interested in **Scalable & Real-Time Applications**
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,mongodb,html,css,bootstrap,git,github" />
+</p>
 
 ---
 
 ## 💼 Featured Projects
-| Project | Description | Demo | Repo |
-|---------|-------------|------|------|
-| **Restaurant POS System** | Full-featured POS for restaurants with billing, inventory, and reporting | [Live](https://restaurant-pos-demo.com) | [Repo](https://github.com/username/restaurant-pos) |
-| **Portfolio Website** | Responsive portfolio showcasing my skills and projects | [Live](https://thealiraza.com) | [Repo](https://github.com/username/portfolio) |
-| **E-commerce Frontend** | Functional e-commerce website with cart and checkout | [Live](https://ecommerce-demo.com) | [Repo](https://github.com/username/ecommerce-frontend) |
+<table align="center">
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Live</th>
+<th>Code</th>
+</tr>
 
-![POS System GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+<tr>
+<td><b>🍽️ Restaurant POS System</b></td>
+<td>Billing, Inventory, Reports, Multi-Role System</td>
+<td><a href="https://restaurant-pos-demo.com">Demo</a></td>
+<td><a href="https://github.com/YOUR_USERNAME/restaurant-pos">Repo</a></td>
+</tr>
+
+<tr>
+<td><b>🌐 Portfolio Website</b></td>
+<td>Responsive personal portfolio</td>
+<td><a href="https://thealiraza.com">Live</a></td>
+<td><a href="https://github.com/YOUR_USERNAME/portfolio">Repo</a></td>
+</tr>
+
+<tr>
+<td><b>🛒 E-commerce Frontend</b></td>
+<td>Cart, Checkout & Product UI</td>
+<td><a href="https://ecommerce-demo.com">Live</a></td>
+<td><a href="https://github.com/YOUR_USERNAME/ecommerce-frontend">Repo</a></td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
-![Muhamad Arhum's GitHub stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=username&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://thealiraza.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arhum@example.com)
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&no-frame=true&row=1" />
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+## 📫 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://thealiraza.com">
+    <img src="https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome" />
+  </a>
+  <a href="mailto:arhum@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.”</i> 😄
+</p>
