@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,50:0a3a5c,100:00D9FF&height=280&section=header&text=Muhamad%20Arhum&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20POS%20Systems%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=56&descSize=18&descColor=a0c4ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,40:0a3a5c,100:00D9FF&height=300&section=header&text=Muhamad%20Arhum&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20POS%20Systems%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=57&descSize=17&descColor=a0c4ff" width="100%"/>
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=800&height=55&lines=I+Build+Systems+That+Run+Real+Businesses+%F0%9F%92%BC;50%2B+Restaurants+Trust+My+POS+Systems+%F0%9F%8D%BD%EF%B8%8F;5%2C000%2B+Orders+Processed+Daily+%F0%9F%93%A6;Production+Code.+Real+Impact.+Zero+Fluff.+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&height=55&lines=I+Build+Systems+That+Run+Real+Businesses+%F0%9F%92%BC;50%2B+Restaurants+Trust+My+POS+Systems+%F0%9F%8D%BD%EF%B8%8F;From+Chaos+to+Automated+Workflows+%E2%9A%A1;5%2C000%2B+Orders+Processed+Daily+%F0%9F%93%A6;Production+Code.+Real+Impact.+Zero+Fluff.+%F0%9F%9A%80" />
 
 <br/><br/>
 
@@ -15,19 +15,50 @@
 [![WhatsApp](https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923001234567)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
+<br/>
+
+![Available](https://img.shields.io/badge/%F0%9F%9F%A2%20STATUS-AVAILABLE%20FOR%20PROJECTS-00ff88?style=for-the-badge)
+![Location](https://img.shields.io/badge/LOCATION-PAKISTAN%20%F0%9F%87%B5%F0%9F%87%B0-white?style=for-the-badge)
+![Response](https://img.shields.io/badge/RESPONSE-UNDER%2024%20HOURS-00D9FF?style=for-the-badge)
+
 </div>
 
 ---
 
 ## 🧬 Who Am I?
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💡 Not Just a Developer
+
+```diff
++ Battle-tested production code
++ POS logic, billing accuracy & scalability
++ 50+ restaurants rely on my systems daily
++ $500K+ revenue processed through my systems
++ 5,000+ orders handled every single day
+
+- Generic CRUD apps
+- Copy-paste tutorial code
+- Demo-only features
+- One-size-fits-all solutions
+```
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 The Dev Behind the Systems
+
 ```javascript
 const arhum = {
   name:      "Muhamad Arhum",
   role:      "Full Stack Developer",
-  focus:     "Business Automation & POS Systems",
+  focus:     "Business Automation",
   location:  "Pakistan 🇵🇰",
-  specialty: ["POS Systems", "Inventory", "Billing", "Analytics"],
+  specialty: ["POS Systems","Inventory","Billing"],
+  scale:     "Single Outlet → Multi-Branch Chains",
   impact: {
     restaurants:      "50+",
     dailyOrders:      "5,000+",
@@ -36,14 +67,18 @@ const arhum = {
     stockoutReduced:  "80%",
     dbSpeedBoost:     "10x"
   },
-  aiRoadmap: ["Predictions", "IoT", "Voice Orders", "LangChain"],
+  aiRoadmap: ["Predictions","IoT","Voice Orders","LangChain"],
   status:    "🟢 Available for Projects"
 };
 ```
 
+</td>
+</tr>
+</table>
+
 ---
 
-## 📊 Impact Metrics
+## 📊 Business Impact Dashboard
 
 <div align="center">
 
@@ -72,7 +107,7 @@ const arhum = {
 [![Repo](https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhamadarham/restaurant-pos)
 [![Live](https://img.shields.io/badge/LIVE_DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://restaurant-pos-demo.vercel.app)
 
-> Full-stack POS with real-time kitchen updates, table management & split billing.
+> Full-stack POS with real-time kitchen updates, smart table management & split billing. Trusted by 50+ outlets.
 
 ```yaml
 Features:
@@ -96,7 +131,7 @@ Features:
 [![Repo](https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhamadarham/inventory-system)
 [![Live](https://img.shields.io/badge/LIVE_DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://inventory-demo.vercel.app)
 
-> Smart stock tracking with AI-ready alerting & multi-location support.
+> Smart stock tracking with AI-ready alerting, supplier management & multi-location support.
 
 ```yaml
 Features:
@@ -122,7 +157,7 @@ Features:
 [![Repo](https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhamadarham/billing-engine)
 [![Live](https://img.shields.io/badge/LIVE_DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://billing-demo.vercel.app)
 
-> Professional invoicing with tax compliance & PDF generation pipeline.
+> Professional invoicing with full tax compliance, discount engine & PDF generation pipeline.
 
 ```yaml
 Features:
@@ -146,7 +181,7 @@ Features:
 [![Repo](https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhamadarham/analytics-dashboard)
 [![Live](https://img.shields.io/badge/LIVE_DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://analytics-demo.vercel.app)
 
-> Real-time BI platform with live revenue tracking & multi-branch insights.
+> Real-time BI platform with live revenue tracking, customer analytics & profit margin insights.
 
 ```yaml
 Features:
@@ -166,6 +201,23 @@ Features:
 </td>
 </tr>
 </table>
+
+---
+
+## 💼 Core Expertise Matrix
+
+<div align="center">
+
+| 🏪 System | ⚡ Key Features | 🛠️ Stack | 📊 Scale |
+|:---------:|:--------------:|:--------:|:--------:|
+| **Restaurant POS** | Order Mgmt, KOT, Split Bills, Real-time | React + Node + Socket.io | 50+ Restaurants |
+| **Inventory** | Stock Tracking, Alerts, Suppliers, Barcode | Express + MongoDB + Redis | Multi-Location |
+| **Billing Engine** | Tax Calc, Discounts, PDF, Stripe | Node + PDFKit + Stripe | 1,000+ Invoices/Day |
+| **Analytics BI** | Reports, Charts, Insights, Export | React + Chart.js | Real-time Live Data |
+| **Multi-tenant POS** | Chain Mgmt, Role-based Access | Next.js + Microservices | 🔨 Building Now |
+| **Cloud Kitchen OS** | Virtual Brands, Aggregator Sync | Node + AWS Lambda | 🔨 In Progress |
+
+</div>
 
 ---
 
@@ -268,7 +320,7 @@ const research = [
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Performance
 
 <div align="center">
 
@@ -279,10 +331,10 @@ const research = [
 <table>
 <tr>
 <td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=muhamadarham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=muhamadarham&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&count_private=true" />
 </td>
 <td width="50%">
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadarham&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadarham&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&dates=8B949E" />
 </td>
 </tr>
 </table>
@@ -410,14 +462,24 @@ const research = [
 
 <br/>
 
-```yaml
-Availability:
-  Freelance:     ✅ OPEN
-  Consulting:    ✅ AVAILABLE
-  Full-Time:     💬 Let's Talk
-  Collaboration: ✅ INTERESTED
-  Response Time: Under 24 hours
+<table>
+<tr>
+<td width="50%" align="center">
 
+```typescript
+const availability = {
+  freelance:     "✅ OPEN",
+  fullTime:      "💬 Let's Talk",
+  consulting:    "✅ AVAILABLE",
+  collaboration: "✅ INTERESTED",
+  responseTime:  "< 24 hours"
+};
+```
+
+</td>
+<td width="50%" align="center">
+
+```yaml
 Ideal Projects:
   - POS & Billing Systems
   - Business Process Automation
@@ -427,6 +489,10 @@ Ideal Projects:
   - Multi-Branch Chain Systems
 ```
 
+</td>
+</tr>
+</table>
+
 ![Response Time](https://img.shields.io/badge/RESPONSE_TIME-Under_24_Hours-00D9FF?style=for-the-badge)
 ![Status](https://img.shields.io/badge/STATUS-AVAILABLE-00FF00?style=for-the-badge)
 ![Location](https://img.shields.io/badge/LOCATION-Pakistan_🇵🇰-white?style=for-the-badge)
@@ -435,11 +501,13 @@ Ideal Projects:
 
 ---
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 <div align="center">
 
 ### 🚀 *"Code that runs businesses, not just browsers."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let%27s+build+something+amazing!+%F0%9F%9A%80;Real+systems+for+real+businesses+%F0%9F%92%BC" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let%27s+build+something+amazing+together!+%F0%9F%9A%80;Real+systems+for+real+businesses+%F0%9F%92%BC;Drop+me+a+message+anytime!+%E2%9C%A8" />
 
 <br/>
 
@@ -451,6 +519,9 @@ Ideal Projects:
 
 **⭐ If my work inspires you, a star on my repos means the world! ⭐**
 
+![Star](https://img.shields.io/github/stars/muhamadarham?style=social)
+![Follow](https://img.shields.io/github/followers/muhamadarham?style=social)
+
 </div>
 
 <p align="center">
@@ -458,4 +529,7 @@ Ideal Projects:
 </p>
 
 ---
-*Last Updated: April 2026 · Crafted with passion by Muhamad Arhum · Pakistan 🇵🇰*
+
+<div align="center">
+  <sub>Last Updated: April 2026 &nbsp;•&nbsp; Crafted with passion by Muhamad Arhum &nbsp;•&nbsp; Pakistan 🇵🇰</sub>
+</div>
