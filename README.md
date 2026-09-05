@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,40:0a3a5c,100:00D9FF&height=300&section=header&text=Muhamad%20Arhum&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20POS%20Systems%20Engineer%20%7C%20AI%20Enthusiast&descAlignY=57&descSize=17&descColor=a0c4ff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e1a,40:0a3a5c,100:00D9FF&height=300&section=header&text=Muhamad%20Arhum&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer%20%7C%20CRM%2C%20ERP%20%26%20POS%20Systems%20Specialist&descAlignY=57&descSize=17&descColor=a0c4ff" width="100%"/>
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&height=55&lines=I+Build+Systems+That+Run+Real+Businesses+%F0%9F%92%BC;50%2B+Restaurants+Trust+My+POS+Systems+%F0%9F%8D%BD%EF%B8%8F;From+Chaos+to+Automated+Workflows+%E2%9A%A1;5%2C000%2B+Orders+Processed+Daily+%F0%9F%93%A6;Production+Code.+Real+Impact.+Zero+Fluff.+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1200&color=00D9FF&center=true&vCenter=true&width=850&height=55&lines=AI+Engineer+%26+Full+Stack+Developer+%F0%9F%A4%96;I+Build+CRM%2C+ERP+%26+POS+Systems+That+Run+Businesses+%F0%9F%92%BC;50%2B+Businesses+Trust+My+Systems+%F0%9F%8F%AA;From+Chaos+to+AI-Powered+Automated+Workflows+%E2%9A%A1;5%2C000%2B+Orders+Processed+Daily+%F0%9F%93%A6;Production+Code.+Real+Impact.+Zero+Fluff.+%F0%9F%9A%80" />
 
 <br/><br/>
 
@@ -35,10 +35,11 @@
 
 ```diff
 + Battle-tested production code
-+ POS logic, billing accuracy & scalability
-+ 50+ restaurants rely on my systems daily
++ CRM, ERP, POS logic, billing accuracy & scalability
++ 50+ businesses rely on my systems daily
 + $500K+ revenue processed through my systems
 + 5,000+ orders handled every single day
++ AI-powered automation baked into every build
 
 - Generic CRUD apps
 - Copy-paste tutorial code
@@ -54,11 +55,11 @@
 ```javascript
 const arhum = {
   name:      "Muhamad Arhum",
-  role:      "Full Stack Developer",
-  focus:     "Business Automation",
+  role:      "AI Engineer & Full Stack Developer",
+  focus:     "CRM, ERP & POS Systems | Business Automation",
   location:  "Pakistan 🇵🇰",
-  specialty: ["POS Systems","Inventory","Billing"],
-  scale:     "Single Outlet → Multi-Branch Chains",
+  specialty: ["CRM","ERP","POS Systems","Inventory","Billing","AI Agents"],
+  scale:     "Single Outlet → Multi-Branch Chains → Enterprises",
   impact: {
     restaurants:      "50+",
     dailyOrders:      "5,000+",
@@ -67,7 +68,7 @@ const arhum = {
     stockoutReduced:  "80%",
     dbSpeedBoost:     "10x"
   },
-  aiRoadmap: ["Predictions","IoT","Voice Orders","LangChain"],
+  aiRoadmap: ["AI Agents","Predictions","IoT","Voice Orders","LangChain"],
   status:    "🟢 Available for Projects"
 };
 ```
@@ -177,6 +178,32 @@ Features:
 </td>
 <td width="50%" valign="top">
 
+### 🏢 CRM & ERP Suite
+[![Repo](https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhamadarham/crm-erp-suite)
+[![Live](https://img.shields.io/badge/LIVE_DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://crm-erp-demo.vercel.app)
+
+> Unified CRM + ERP platform for lead tracking, HR, procurement, and finance — built to replace scattered spreadsheets with one automated system.
+
+```yaml
+Features:
+  ✅ Lead & Customer Pipeline (CRM)
+  ✅ HR, Payroll & Attendance (ERP)
+  ✅ Procurement & Vendor Management
+  ✅ Role-Based Access Control
+  ✅ Workflow Automation Engine
+  ✅ AI-Assisted Reporting & Insights
+```
+
+**Stack:** `React` `Node.js` `PostgreSQL` `Redis` `LangChain`
+
+![Impact](https://img.shields.io/badge/IMPACT-Unified_Business_Ops-00D9FF?style=flat-square)
+![Scale](https://img.shields.io/badge/SCALE-Enterprise_Ready-00FF00?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 📊 Business Analytics Dashboard
 [![Repo](https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/muhamadarham/analytics-dashboard)
 [![Live](https://img.shields.io/badge/LIVE_DEMO-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://analytics-demo.vercel.app)
@@ -210,10 +237,13 @@ Features:
 
 | 🏪 System | ⚡ Key Features | 🛠️ Stack | 📊 Scale |
 |:---------:|:--------------:|:--------:|:--------:|
+| **CRM Systems** | Lead Pipeline, Customer 360°, Automation | React + Node + PostgreSQL | Multi-Client |
+| **ERP Systems** | HR, Finance, Procurement, Inventory | Next.js + Microservices | Enterprise |
 | **Restaurant POS** | Order Mgmt, KOT, Split Bills, Real-time | React + Node + Socket.io | 50+ Restaurants |
 | **Inventory** | Stock Tracking, Alerts, Suppliers, Barcode | Express + MongoDB + Redis | Multi-Location |
 | **Billing Engine** | Tax Calc, Discounts, PDF, Stripe | Node + PDFKit + Stripe | 1,000+ Invoices/Day |
 | **Analytics BI** | Reports, Charts, Insights, Export | React + Chart.js | Real-time Live Data |
+| **AI Agents & Automation** | LLM Workflows, Chatbots, Smart Alerts | LangChain + OpenAI/Claude APIs | 🔨 Building Now |
 | **Multi-tenant POS** | Chain Mgmt, Role-based Access | Next.js + Microservices | 🔨 Building Now |
 | **Cloud Kitchen OS** | Virtual Brands, Aggregator Sync | Node + AWS Lambda | 🔨 In Progress |
 
@@ -243,6 +273,13 @@ Features:
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ### 🚀 DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -274,12 +311,12 @@ Features:
 ### 📚 Currently Learning
 ```typescript
 const learning = [
+  "Advanced LLM Agent Architectures",
   "Microservices Architecture",
   "GraphQL APIs",
   "AWS Lambda + Serverless",
   "Kubernetes Orchestration",
-  "Redis Advanced Caching",
-  "LangChain Integration"
+  "Redis Advanced Caching"
 ];
 ```
 ![Status](https://img.shields.io/badge/STATUS-IN_PROGRESS-00D9FF?style=for-the-badge)
@@ -290,6 +327,7 @@ const learning = [
 ### 🔨 Currently Building
 ```typescript
 const building = [
+  "AI-Powered CRM & ERP Suite",
   "Multi-tenant POS Platform",
   "Restaurant Chain Manager",
   "Cloud Kitchen OS",
@@ -305,7 +343,7 @@ const building = [
 ### 🔬 Researching 2025+
 ```typescript
 const research = [
-  "AI Sales Predictions",
+  "AI Sales & Demand Predictions",
   "IoT Sensor Integration",
   "Voice Order System",
   "Blockchain Supply Chain",
@@ -367,8 +405,9 @@ const research = [
 │  No real-world testing               │  Used by 50+ actual businesses       │
 │  Copy-paste solutions                │  Custom business logic per client    │
 │  Over-engineered mess                │  Clean, scalable architecture        │
-│  One-size-fits-all                   │  Tailored to your workflow           │
+│  One-size-fits-all                   │  Tailored CRM/ERP/POS per workflow   │
 │  Disconnected from business          │  Understands your revenue goals      │
+│  No AI, just static logic            │  AI Engineer — smart, adaptive systems│
 └──────────────────────────────────────┴──────────────────────────────────────┘
 ```
 
@@ -408,10 +447,10 @@ const research = [
 </td>
 <td width="50%">
 
-> *"Arhum doesn't just code — he understands business. His solutions actually solve real problems. Highly recommend for any serious business automation project."*
+> *"Arhum doesn't just code — he understands business. His CRM and ERP solutions actually solve real problems. Highly recommend for any serious business automation project."*
 
 **— Business Consultant**
-⭐⭐⭐⭐⭐ &nbsp; ![Project](https://img.shields.io/badge/Project-Consulting-00D9FF?style=flat-square)
+⭐⭐⭐⭐⭐ &nbsp; ![Project](https://img.shields.io/badge/Project-CRM_%26_ERP-00D9FF?style=flat-square)
 
 </td>
 </tr>
@@ -481,12 +520,14 @@ const availability = {
 
 ```yaml
 Ideal Projects:
+  - CRM Systems (Sales, Leads, Support)
+  - ERP Systems (HR, Finance, Procurement)
   - POS & Billing Systems
   - Business Process Automation
+  - AI Agents & LLM Integrations
   - Enterprise Web Applications
   - Restaurant & Food Tech
-  - Inventory & ERP Solutions
-  - Multi-Branch Chain Systems
+  - Inventory & Multi-Branch Chain Systems
 ```
 
 </td>
@@ -505,9 +546,9 @@ Ideal Projects:
 
 <div align="center">
 
-### 🚀 *"Code that runs businesses, not just browsers."*
+### 🚀 *"AI-powered code that runs businesses, not just browsers."*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let%27s+build+something+amazing+together!+%F0%9F%9A%80;Real+systems+for+real+businesses+%F0%9F%92%BC;Drop+me+a+message+anytime!+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let%27s+build+something+amazing+together!+%F0%9F%9A%80;Real+CRM%2C+ERP+%26+POS+systems+for+real+businesses+%F0%9F%92%BC;Drop+me+a+message+anytime!+%E2%9C%A8" />
 
 <br/>
 
@@ -531,5 +572,5 @@ Ideal Projects:
 ---
 
 <div align="center">
-  <sub>Last Updated: April 2026 &nbsp;•&nbsp; Crafted with passion by Muhamad Arhum &nbsp;•&nbsp; Pakistan 🇵🇰</sub>
+  <sub>Last Updated: September 2026 &nbsp;•&nbsp; Crafted with passion by Muhamad Arhum &nbsp;•&nbsp; Pakistan 🇵🇰</sub>
 </div>
