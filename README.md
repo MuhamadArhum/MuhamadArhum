@@ -1,179 +1,251 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!-- MUHAMAD ARHUM | AI FUTURISTIC GITHUB PROFILE                -->
-
-<!-- THEME: CYBERPUNK • NEON CYAN • AI ENGINEERING               -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║       ARHUM OS // NEURAL CORE                                 ║
+║       FUTURISTIC AI ENGINEER PROFILE                          ║
+║       MUHAMAD ARHUM                                           ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0B1F3A,65:075985,100:00F5FF&height=250&section=header&text=MUHAMAD%20ARHUM&fontSize=55&fontColor=FFFFFF&animation=twinkling&fontAlignY=40&desc=AI%20ENGINEER%20%20%7C%20%20FULL%20STACK%20DEVELOPER&descSize=17&descColor=00F5FF&descAlignY=62" />
+<a href="https://github.com/muhamadarhum">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,20:111827,45:312E81,70:075985,100:00F5FF&text=MUHAMAD%20ARHUM&fontSize=58&fontColor=FFFFFF&fontAlignY=37&desc=AI%20ENGINEER%20%2F%2F%20FULL%20STACK%20ARCHITECT&descSize=17&descColor=67E8F9&descAlignY=57&animation=twinkling&stroke=00F5FF&strokeWidth=1" />
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=500&color=00F5FF&center=true&vCenter=true&width=850&height=65&lines=%3E+INITIALIZING+NEURAL+CORE...;%3E+AI+SYSTEMS+%7C+FULL+STACK+ENGINEERING;%3E+BUILDING+INTELLIGENT+BUSINESS+SOFTWARE;%3E+DESIGNING+THE+NEXT+GENERATION+OF+AI;%3E+WELCOME+TO+MY+DIGITAL+UNIVERSE." />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=800&height=60&lines=INITIALIZING+AI+ENGINEERING+SYSTEM...;Building+Intelligent+Digital+Experiences+%F0%9F%A4%96;Engineering+the+Future+with+Artificial+Intelligence;CRM+%7C+ERP+%7C+POS+%7C+AI+AUTOMATION;Turning+Ideas+Into+Production-Ready+Software+%E2%9A%A1" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5FF?style=for-the-badge&logo=probot&logoColor=00F5FF&labelColor=020617" />
-<img src="https://img.shields.io/badge/ROLE-AI%20ENGINEER-00F5FF?style=for-the-badge&logo=googlecolab&logoColor=00F5FF&labelColor=020617" />
-<img src="https://img.shields.io/badge/BASE-PAKISTAN-00F5FF?style=for-the-badge&logo=googlemaps&logoColor=00F5FF&labelColor=020617" />
-
-<br><br>
-
-<a href="https://github.com/muhamadarham">
-<img src="https://komarev.com/ghpvc/?username=muhamadarham&style=for-the-badge&color=0891B2&label=SYSTEM+VISITORS" />
-</a>
+<img src="https://img.shields.io/badge/CORE-ARTIFICIAL_INTELLIGENCE-020617?style=for-the-badge&logo=probot&logoColor=00F5FF&labelColor=020617" />
+<img src="https://img.shields.io/badge/ENGINE-FULL_STACK-020617?style=for-the-badge&logo=codefactor&logoColor=A78BFA&labelColor=020617" />
+<img src="https://img.shields.io/badge/BASE-PAKISTAN-020617?style=for-the-badge&logo=googlemaps&logoColor=67E8F9&labelColor=020617" />
 
 <br><br>
 
 <a href="https://github.com/muhamadarham?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-020617?style=for-the-badge&logo=github&logoColor=00F5FF" />
+<img src="https://img.shields.io/badge/%E2%96%B6_EXPLORE_PROJECTS-00F5FF?style=for-the-badge&logo=github&logoColor=020617" />
 </a>
 <a href="https://github.com/muhamadarham?tab=followers">
-<img src="https://img.shields.io/badge/JOIN-MY_NETWORK-020617?style=for-the-badge&logo=github&logoColor=00F5FF" />
+<img src="https://img.shields.io/badge/%E2%9C%A6_CONNECT_NETWORK-A78BFA?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=muhamadarham&style=for-the-badge&color=312E81&label=NEURAL+INTERACTIONS" />
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F5FF,50:A78BFA,100:00F5FF" />
 
 </div>
 
----
+<!-- ═══════════════ 01 : DIGITAL IDENTITY ═══════════════ -->
 
 <div align="center">
 
-# `01 // SYSTEM_IDENTITY`
+<h2>◈ 01 — DIGITAL IDENTITY</h2>
 
-<img src="https://img.shields.io/badge/IDENTITY-VERIFIED-00F5FF?style=flat-square&labelColor=020617" />
+<code>IDENTITY://MUHAMAD_ARHUM</code>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/SPECIALIZATION-AI_ENGINEERING-020617?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/DOMAIN-ENTERPRISE_SOFTWARE-020617?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/FOCUS-INTELLIGENT_AUTOMATION-020617?style=flat-square&labelColor=020617" />
 
 </div>
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
 
-## 👨‍💻 The Human Behind the AI
+### `> HELLO, WORLD!`
 
-I'm **Muhamad Arhum**, an AI Engineer and Full Stack Developer passionate about building intelligent applications, scalable software, and automation systems.
+I'm **Muhamad Arhum**, an AI Engineer and Full Stack Developer focused on building intelligent applications, scalable web platforms, and business management systems.
 
-My work combines software engineering, AI capabilities, and practical business requirements to create solutions designed for real-world use.
+I work at the intersection of software engineering, artificial intelligence, and business automation.
 
-### My Mission
+My goal is to turn complex requirements into software that is practical, maintainable, and genuinely useful.
 
-> Build intelligent software that solves real problems, automates complex workflows, and helps businesses operate smarter.
+**MY ENGINEERING PILLARS**
 
-### What Drives Me
+* `01` — Intelligent AI Applications
+* `02` — Full Stack Product Engineering
+* `03` — CRM, ERP & POS Ecosystems
+* `04` — Business Process Automation
+* `05` — APIs, Data & System Architecture
 
-* 🤖 Artificial Intelligence & LLM Applications
-* 🧠 AI Agents & Intelligent Automation
-* 💻 Full Stack Web Development
-* 🏢 CRM, ERP & POS Ecosystems
-* 📊 Data Analytics & Business Intelligence
-* ⚡ Scalable APIs & Software Architecture
+**CURRENT MINDSET**
+
+> Don't just write code. Engineer systems that create value.
 
 </td>
-<td width="40%" valign="top">
+<td width="42%" valign="top">
 
-## 🧬 Developer DNA
+### `> SYSTEM_PROFILE.json`
 
-```javascript
-const arhum = {
-  name: "Muhamad Arhum",
-
-  title: [
-    "AI Engineer",
-    "Full Stack Developer"
+```json
+{
+  "identity": "Muhamad Arhum",
+  "role": "AI Engineer",
+  "secondary_role": "Full Stack Developer",
+  "company": "AbyteSol",
+  "position": "Founder & CEO",
+  "location": "Pakistan",
+  "specialties": [
+    "AI Applications",
+    "Full Stack Development",
+    "CRM Systems",
+    "ERP Platforms",
+    "POS Solutions",
+    "Automation"
   ],
-
-  company: "AbyteSol",
-  position: "Founder & CEO",
-  location: "Pakistan 🇵🇰",
-
-  domains: [
-    "Artificial Intelligence",
-    "Web Engineering",
-    "Business Automation",
-    "Enterprise Systems"
-  ],
-
-  interests: [
+  "interests": [
     "LLMs",
     "AI Agents",
-    "Intelligent Workflows",
-    "Scalable Applications"
+    "Cloud Systems",
+    "Scalable Architecture"
   ],
-
-  mindset: "Think. Build. Automate."
-};
+  "mission": "Build with purpose"
+}
 ```
 
 </td>
 </tr>
 </table>
 
----
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:312E81,50:00F5FF,100:312E81" />
+</div>
+
+<!-- ═══════════════ 02 : NEURAL ARCHITECTURE ═══════════════ -->
 
 <div align="center">
 
-# `02 // NEURAL_TECH_STACK`
+<h2>◈ 02 — NEURAL ARCHITECTURE</h2>
 
-### Technologies Powering My Work
+<sub>THE TECHNOLOGIES INSIDE MY ENGINEERING WORKFLOW</sub>
+
+<br><br>
+
+### `01 / FRONTEND INTERFACE`
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,redux,html,css&theme=dark&perline=8" />
+
+<br><br>
+
+### `02 / BACKEND INFRASTRUCTURE`
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,mongodb,postgres,redis,mysql&theme=dark&perline=8" />
+
+<br><br>
+
+### `03 / AI & INTELLIGENCE`
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark&perline=8" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LLM_APPLICATIONS-020617?style=for-the-badge&logo=openai&logoColor=00F5FF" />
+<img src="https://img.shields.io/badge/AI_AGENTS-020617?style=for-the-badge&logo=probot&logoColor=A78BFA" />
+<img src="https://img.shields.io/badge/LANGCHAIN-020617?style=for-the-badge&logo=langchain&logoColor=00F5FF" />
+
+<br><br>
+
+### `04 / CLOUD & DEVOPS`
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,linux,vscode,postman&theme=dark&perline=8" />
+
+</div>
+
+<!-- ═══════════════ 03 : ENGINEERING DOMAINS ═══════════════ -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F5FF,50:312E81,100:00F5FF" />
+
+<h2>◈ 03 — ENGINEERING DOMAINS</h2>
+
+<sub>FROM INTELLIGENT APPLICATIONS TO BUSINESS-CRITICAL SYSTEMS</sub>
 
 </div>
 
 <table>
 <tr>
-<td align="center" width="50%" valign="top">
+<td width="50%" valign="top">
 
-### 🌐 FRONTEND SYSTEMS
+<h3>🤖 ARTIFICIAL INTELLIGENCE</h3>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux&theme=dark&perline=4" />
+<img src="https://img.shields.io/badge/DOMAIN-NEURAL_SYSTEMS-020617?style=flat-square&labelColor=020617" />
+
+* LLM-powered applications
+* AI agent workflows
+* Intelligent assistants
+* AI API integrations
+* Document processing
+* Workflow orchestration
 
 </td>
-<td align="center" width="50%" valign="top">
+<td width="50%" valign="top">
 
-### ⚙️ BACKEND ENGINEERING
+<h3>💻 FULL STACK ENGINEERING</h3>
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi&theme=dark&perline=4" />
+<img src="https://img.shields.io/badge/DOMAIN-APPLICATION_SYSTEMS-020617?style=flat-square&labelColor=020617" />
+
+* Modern web applications
+* RESTful API development
+* Authentication systems
+* Database design
+* Real-time communication
+* Responsive interfaces
 
 </td>
 </tr>
 <tr>
-<td align="center" valign="top">
+<td width="50%" valign="top">
 
-### 🗄️ DATA INFRASTRUCTURE
+<h3>🏢 ENTERPRISE SOFTWARE</h3>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark&perline=4" />
+<img src="https://img.shields.io/badge/DOMAIN-BUSINESS_INFRASTRUCTURE-020617?style=flat-square&labelColor=020617" />
+
+* CRM and customer management
+* ERP and business operations
+* Restaurant POS platforms
+* Inventory management
+* Billing and invoicing
+* Multi-branch workflows
 
 </td>
-<td align="center" valign="top">
+<td width="50%" valign="top">
 
-### ☁️ CLOUD & DEVOPS
+<h3>📊 DATA & AUTOMATION</h3>
 
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,linux,git,github&theme=dark&perline=4" />
+<img src="https://img.shields.io/badge/DOMAIN-OPERATIONAL_INTELLIGENCE-020617?style=flat-square&labelColor=020617" />
+
+* Business analytics
+* Reporting dashboards
+* Data visualization
+* Automated notifications
+* Process optimization
+* Operational monitoring
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-### 🤖 ARTIFICIAL INTELLIGENCE
-
-<img src="https://img.shields.io/badge/LLM_Applications-020617?style=for-the-badge&logo=openai&logoColor=00F5FF" />
-<img src="https://img.shields.io/badge/AI_Agents-020617?style=for-the-badge&logo=probot&logoColor=00F5FF" />
-<img src="https://img.shields.io/badge/LangChain-020617?style=for-the-badge&logo=langchain&logoColor=00F5FF" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-020617?style=for-the-badge&logo=googlegemini&logoColor=00F5FF" />
-<img src="https://img.shields.io/badge/AI_Automation-020617?style=for-the-badge&logo=zapier&logoColor=00F5FF" />
-
-</div>
-
----
+<!-- ═══════════════ 04 : PROJECT UNIVERSE ═══════════════ -->
 
 <div align="center">
 
-# `03 // PROJECT_DATABASE`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:312E81,50:00F5FF,100:312E81" />
 
-### Engineering Solutions for the Real World
+<h2>◈ 04 — PROJECT UNIVERSE</h2>
+
+<sub>SOFTWARE CONCEPTS • ENGINEERING • BUSINESS AUTOMATION</sub>
+
+<br><br>
 
 </div>
 
@@ -181,108 +253,140 @@ const arhum = {
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/01-NEURAL_POS-00F5FF?style=for-the-badge&labelColor=020617" />
+<div align="center">
 
-## 🍽️ Restaurant POS
+<img src="https://img.shields.io/badge/PROJECT_01-NEURAL_POS-020617?style=for-the-badge&logoColor=00F5FF" />
 
-A restaurant operations platform concept focused on real-time order management, billing, and kitchen workflows.
+<h3>🍽️ Restaurant POS</h3>
 
-**SYSTEM MODULES**
+</div>
 
-* Real-time order processing
+A restaurant operations platform designed around order processing, billing, kitchen workflows, and inventory.
+
+**CORE MODULES**
+
+* Order and table management
 * Kitchen Order Tickets
-* Table management
-* Split billing and payments
+* Billing and payments
 * Inventory integration
-* Sales analytics
+* Sales reporting
+* Real-time order updates
 
-**TECHNOLOGIES**
+**TECH STACK**
 
 `React` `Node.js` `MongoDB` `Socket.IO`
 
+<div align="center">
+
 <a href="https://github.com/muhamadarham/restaurant-pos">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-00F5FF?style=for-the-badge&logo=github&logoColor=020617" />
+<img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=020617" />
 </a>
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/02-STOCK_INTELLIGENCE-00F5FF?style=for-the-badge&labelColor=020617" />
+<div align="center">
 
-## 📦 Inventory Intelligence
+<img src="https://img.shields.io/badge/PROJECT_02-STOCK_CORE-020617?style=for-the-badge" />
 
-An inventory management platform concept for stock monitoring, supplier coordination, and purchasing workflows.
+<h3>📦 Inventory Intelligence</h3>
 
-**SYSTEM MODULES**
+</div>
 
-* Live stock monitoring
-* Low-stock alerts
+An inventory management solution concept for tracking stock, coordinating suppliers, and managing purchasing operations.
+
+**CORE MODULES**
+
+* Stock monitoring
+* Low-stock notifications
 * Supplier management
-* Purchase order management
+* Purchase orders
 * Multi-location inventory
-* Inventory reporting
+* Inventory reports
 
-**TECHNOLOGIES**
+**TECH STACK**
 
 `React` `Node.js` `MongoDB`
 
+<div align="center">
+
 <a href="https://github.com/muhamadarham/inventory-system">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-00F5FF?style=for-the-badge&logo=github&logoColor=020617" />
+<img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=020617" />
 </a>
+
+</div>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/03-FINTECH_ENGINE-00F5FF?style=for-the-badge&labelColor=020617" />
+<div align="center">
 
-## 💳 Billing & Invoice Engine
+<img src="https://img.shields.io/badge/PROJECT_03-FINTECH_CORE-020617?style=for-the-badge" />
 
-A business billing solution concept for invoice generation, payment tracking, and financial records.
+<h3>💳 Billing Engine</h3>
 
-**SYSTEM MODULES**
+</div>
+
+A business invoicing solution concept focused on billing operations, payment tracking, and financial documentation.
+
+**CORE MODULES**
 
 * Invoice generation
-* Discount calculations
+* Discounts and calculations
 * Payment tracking
-* PDF invoice exports
-* Financial reporting
+* PDF exports
 * Tax configuration
+* Financial reports
 
-**TECHNOLOGIES**
+**TECH STACK**
 
 `Node.js` `Express` `MongoDB`
 
+<div align="center">
+
 <a href="https://github.com/muhamadarham/billing-engine">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-00F5FF?style=for-the-badge&logo=github&logoColor=020617" />
+<img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=020617" />
 </a>
+
+</div>
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/04/ENTERPRISE_CORE-00F5FF?style=for-the-badge&labelColor=020617" />
+<div align="center">
 
-## 🏢 CRM & ERP Ecosystem
+<img src="https://img.shields.io/badge/PROJECT_04-ENTERPRISE_OS-020617?style=for-the-badge" />
 
-A unified business management platform concept for customer relationships, internal operations, and workflow automation.
+<h3>🏢 CRM & ERP Suite</h3>
 
-**SYSTEM MODULES**
+</div>
+
+A business management solution concept for connecting customer relationships, internal operations, and automated workflows.
+
+**CORE MODULES**
 
 * Lead and customer management
 * Employee administration
 * Procurement workflows
-* Role-based access control
+* Access control
 * Business reporting
 * Workflow automation
 
-**TECHNOLOGIES**
+**TECH STACK**
 
 `React` `Node.js` `MongoDB`
 
+<div align="center">
+
 <a href="https://github.com/muhamadarham/crm-erp-suite">
-<img src="https://img.shields.io/badge/VIEW_SOURCE-00F5FF?style=for-the-badge&logo=github&logoColor=020617" />
+<img src="https://img.shields.io/badge/ACCESS_REPOSITORY-00F5FF?style=for-the-badge&logo=github&logoColor=020617" />
 </a>
+
+</div>
 
 </td>
 </tr>
@@ -290,34 +394,40 @@ A unified business management platform concept for customer relationships, inter
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROJECT_STATUS-VERIFY_REPOSITORIES-00F5FF?style=for-the-badge&labelColor=020617" />
+<a href="https://github.com/muhamadarham?tab=repositories">
+<img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-A78BFA?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
 
 </div>
 
----
+<sub>Project links and features should be verified against the actual repositories before publishing.</sub>
+
+<!-- ═══════════════ 05 : GITHUB TELEMETRY ═══════════════ -->
 
 <div align="center">
 
-# `04 // GITHUB_TELEMETRY`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F5FF,50:312E81,100:00F5FF" />
 
-### Development Activity & Repository Insights
+<h2>◈ 05 — GITHUB TELEMETRY</h2>
 
-<br>
+<sub>REPOSITORIES • CONTRIBUTIONS • DEVELOPMENT ACTIVITY</sub>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadarham&bg_color=020617&color=00F5FF&line=00F5FF&point=FFFFFF&area=true&hide_border=true&custom_title=DEVELOPMENT_ACTIVITY" />
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=muhamadarham&bg_color=050816&color=00F5FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true&custom_title=NEURAL%20DEVELOPMENT%20ACTIVITY" />
 
 <br><br>
 
 <a href="https://github.com/muhamadarham">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=muhamadarham&show_icons=true&hide_border=true&bg_color=020617&title_color=00F5FF&icon_color=00F5FF&text_color=E2E8F0" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=muhamadarham&show_icons=true&hide_border=true&bg_color=050816&title_color=00F5FF&icon_color=A78BFA&text_color=E2E8F0&rank_icon=github" />
 </a>
 <a href="https://github.com/muhamadarham">
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadarham&layout=compact&hide_border=true&bg_color=020617&title_color=00F5FF&text_color=E2E8F0&langs_count=8" />
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhamadarham&layout=compact&hide_border=true&bg_color=050816&title_color=00F5FF&text_color=E2E8F0&langs_count=8" />
 </a>
 
 <br><br>
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadarham&theme=transparent&hide_border=true&background=020617&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF&sideLabels=00F5FF&currStreakNum=FFFFFF&dates=94A3B8" />
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=muhamadarham&theme=transparent&hide_border=true&background=050816&ring=00F5FF&fire=A78BFA&currStreakLabel=00F5FF&sideLabels=00F5FF&currStreakNum=FFFFFF&dates=94A3B8" />
 
 <br><br>
 
@@ -325,97 +435,112 @@ A unified business management platform concept for customer relationships, inter
 
 </div>
 
----
+<!-- ═══════════════ 06 : FUTURE PROTOCOLS ═══════════════ -->
 
 <div align="center">
 
-# `05 // ACTIVE_RESEARCH`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:312E81,50:00F5FF,100:312E81" />
+
+<h2>◈ 06 — FUTURE PROTOCOLS</h2>
+
+<sub>AREAS OF CONTINUOUS EXPLORATION</sub>
 
 </div>
 
 <table>
 <tr>
-<td width="33%" valign="top" align="center">
+<td align="center" width="33%" valign="top">
 
-### 🧠 AI ENGINEERING
+### 🧠 NEURAL AI
 
-<img src="https://img.shields.io/badge/FOCUS-INTELLIGENCE-00F5FF?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/RESEARCH-01-00F5FF?style=flat-square&labelColor=020617" />
 
-* LLM applications
-* AI agent architectures
-* Prompt engineering
-* Intelligent workflows
+LLM applications
+
+AI agent architectures
+
+Intelligent assistants
+
+Retrieval-augmented generation
 
 </td>
-<td width="33%" valign="top" align="center">
+<td align="center" width="33%" valign="top">
 
 ### ⚡ AUTOMATION
 
-<img src="https://img.shields.io/badge/FOCUS-EFFICIENCY-00F5FF?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/RESEARCH-02-A78BFA?style=flat-square&labelColor=020617" />
 
-* Business process automation
-* AI-powered assistants
-* Data processing
-* Workflow orchestration
+Workflow orchestration
+
+Business automation
+
+Event-driven systems
+
+AI-powered productivity
 
 </td>
-<td width="33%" valign="top" align="center">
+<td align="center" width="33%" valign="top">
 
-### 🚀 SOFTWARE SYSTEMS
+### 🌐 INFRASTRUCTURE
 
-<img src="https://img.shields.io/badge/FOCUS-SCALABILITY-00F5FF?style=flat-square&labelColor=020617" />
+<img src="https://img.shields.io/badge/RESEARCH-03-00F5FF?style=flat-square&labelColor=020617" />
 
-* API architecture
-* Enterprise applications
-* Database optimization
-* Cloud deployment
+Scalable APIs
+
+Cloud architecture
+
+Database performance
+
+Reliable deployments
 
 </td>
 </tr>
 </table>
 
----
+<!-- ═══════════════ 07 : ESTABLISH CONNECTION ═══════════════ -->
 
 <div align="center">
 
-# `06 // ESTABLISH_CONNECTION`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00F5FF,50:312E81,100:00F5FF" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=650&height=50&lines=Have+an+AI+idea%3F+Let's+build+it.;Need+a+scalable+business+application%3F;Let's+turn+your+vision+into+reality." />
+<h2>◈ 07 — ESTABLISH CONNECTION</h2>
 
-<br>
-
-### Founder & CEO — AbyteSol
-
-**Innovate. Connect. Grow.**
-
-Building digital solutions through software engineering, AI, and automation.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2600&pause=900&color=00F5FF&center=true&vCenter=true&width=700&height=55&lines=%3E+HAVE+AN+IDEA%3F+LET'S+ENGINEER+IT.;%3E+BUILDING+THE+FUTURE%2C+ONE+SYSTEM+AT+A+TIME.;%3E+INNOVATION+STARTS+WITH+A+CONVERSATION." />
 
 <br>
+
+<h3>Founder & CEO — AbyteSol</h3>
+
+<code>INNOVATE. CONNECT. GROW.</code>
+
+<br><br>
 
 <a href="https://github.com/muhamadarham">
-<img src="https://img.shields.io/badge/GITHUB-020617?style=for-the-badge&logo=github&logoColor=00F5FF" />
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE_MY_WORK-020617?style=for-the-badge&logo=github&logoColor=00F5FF" />
 </a>
 <a href="https://www.linkedin.com/in/yourprofile">
-<img src="https://img.shields.io/badge/LINKEDIN-020617?style=for-the-badge&logo=linkedin&logoColor=00F5FF" />
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-020617?style=for-the-badge&logo=linkedin&logoColor=00F5FF" />
 </a>
 <a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/EMAIL-020617?style=for-the-badge&logo=gmail&logoColor=00F5FF" />
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-020617?style=for-the-badge&logo=gmail&logoColor=00F5FF" />
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/ENGINE-ARTIFICIAL_INTELLIGENCE-00F5FF?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/MODE-FULL_STACK-00F5FF?style=for-the-badge&labelColor=020617" />
-<img src="https://img.shields.io/badge/ORIGIN-PAKISTAN-00F5FF?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/AI_ENGINEERING-00F5FF?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPMENT-A78BFA?style=for-the-badge&labelColor=020617" />
+<img src="https://img.shields.io/badge/BUSINESS_AUTOMATION-00F5FF?style=for-the-badge&labelColor=020617" />
 
 <br><br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,35:075985,70:0B1F3A,100:020617&height=150&section=footer&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:020617,35:111827,65:312E81,100:00F5FF&animation=twinkling&text=THE%20FUTURE%20IS%20ENGINEERED&fontSize=22&fontColor=FFFFFF&fontAlignY=65" />
 
-### `THE FUTURE IS BUILT, NOT PREDICTED.`
+**`SYSTEM STATUS: ALWAYS LEARNING. ALWAYS BUILDING.`**
 
-⭐ **If you like my work, explore my repositories and leave a star!**
+<sub>MUHAMAD ARHUM // AI ENGINEER // FULL STACK DEVELOPER // ABYTESOL</sub>
 
-<sub>MUHAMAD ARHUM · AI ENGINEER · FULL STACK DEVELOPER · ABYTESOL</sub>
+<br>
+
+⭐ **Explore the code. Challenge the limits. Build something extraordinary.**
 
 </div>
