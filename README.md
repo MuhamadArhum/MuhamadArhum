@@ -1,32 +1,20 @@
 <div align="center">
 
-<!-- ======================================================== -->
-<!-- CYBERPUNK HEADER BANNER // ANIMATED VENOM CAPSULE       -->
-<!-- ======================================================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:000000,45:001a0a,100:00FF41&text=MUHAMMAD%20ARHUM&fontColor=00FF41&fontSize=54&fontAlignY=38&desc=%E2%96%8C%20SYSTEM%20ONLINE%20%E2%96%90%20%C2%B7%20AI%20ENGINEER%20%C2%B7%20FULL-STACK%20DEV%20%C2%B7%20FOUNDER&descAlignY=60&descSize=15&animation=twinkling" alt="Muhammad Arhum Cyberpunk Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:000000,50:001a0f,100:00ff9c&text=MUHAMMAD%20ARHUM&fontColor=00ff9c&fontSize=54&fontAlignY=38&desc=%E2%96%8C%20SYSTEM%20ONLINE%20%E2%96%90%20%C2%B7%20AI%20ENGINEER%20%C2%B7%20FULL-STACK%20DEV%20%C2%B7%20FOUNDER&descAlignY=60&descSize=15&animation=twinkling" alt="Header" />
 
-<!-- ======================================================== -->
-<!-- DYNAMIC NEON GREEN TERMINAL TYPING STREAM               -->
-<!-- ======================================================== -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2400&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&width=950&height=50&lines=%3E+INITIALIZING+MUHAMMAD_ARHUM.exe+...;%3E+SCANNING+NETWORK...+QUANTUM+NODES+SYNCHRONIZED;%3E+ACTIVATING+MODULES%3A+AI+%7C+FULL-STACK+%7C+ERP+%7C+POS;%3E+BYPASSING+FIREWALL...+ACCESS+GRANTED+%E2%9C%94;%3E+FOUNDER+%26+CEO+%40+ABYTESOL;%3E+MISSION%3A+INNOVATE.+CONNECT.+GROW." alt="Terminal Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=600&color=00FF9C&background=00000000&center=true&vCenter=true&width=950&height=50&lines=%3E+INITIALIZING+MUHAMMAD_ARHUM.exe+...;%3E+SCANNING+NETWORK...+3+NODES+FOUND;%3E+LOADING+MODULES%3A+AI+%7C+FULL-STACK+%7C+ERP+%7C+POS;%3E+BYPASSING+FIREWALL...+ACCESS+GRANTED+%E2%9C%94;%3E+FOUNDER+%26+CEO+%40+ABYTESOL;%3E+INNOVATE.+CONNECT.+GROW." alt="Typing" />
 
 <br/>
 
-<!-- ======================================================== -->
-<!-- TELEMETRY & CLEARANCE BADGES                            -->
-<!-- ======================================================== -->
-<a href="#-system_status"><img src="https://img.shields.io/badge/STATUS-SYSTEM%20ONLINE-00FF41?style=for-the-badge&logo=gnubash&logoColor=000000&labelColor=000000" alt="System Status Online"/></a>
-<a href="#-active_modules"><img src="https://img.shields.io/badge/CLEARANCE-LEVEL%205%20SYSADMIN-00d4ff?style=for-the-badge&logo=securityscorecard&logoColor=00d4ff&labelColor=000000" alt="Clearance Level 5"/></a>
-<a href="#-system_status"><img src="https://img.shields.io/badge/LOCATION-PAKISTAN-00FF41?style=for-the-badge&logo=googlemaps&logoColor=00FF41&labelColor=000000" alt="Location Pakistan"/></a>
-<img src="https://komarev.com/ghpvc/?username=MuhamadArhum&label=VISITOR%20RADAR&color=00d4ff&style=for-the-badge&labelColor=000000" alt="Visitor Radar Count"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&labelColor=000000" alt="status"/>
+<img src="https://img.shields.io/badge/CLEARANCE-LEVEL%205-00d4ff?style=for-the-badge&labelColor=000000" alt="clearance"/>
+<img src="https://img.shields.io/badge/LOCATION-PAKISTAN-00ff9c?style=for-the-badge&labelColor=000000" alt="location"/>
+<img src="https://komarev.com/ghpvc/?username=MuhamadArhum&label=VISITORS&color=00d4ff&style=for-the-badge&labelColor=000000" alt="views"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00FF41,100:000000" width="100%" alt="Neon Divider Line"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00ff9c,100:000000" width="100%" alt="divider"/>
 
-<!-- ======================================================== -->
-<!-- ASCII ART CALLSIGN                                      -->
-<!-- ======================================================== -->
 ```text
  __  __ _   _ _   _    _    __  __ __  __    _    ____       _    ____  _   _ _   _ __  __
 |  \/  | | | | | | |  / \  |  \/  |  \/  |  / \  |  _ \     / \  |  _ \| | | | | | |  \/  |
@@ -43,39 +31,38 @@ muhammad_arhum
 
 root@arhum:~$ cat identity.json
 {
-  "name"        : "Muhammad Arhum",
-  "title"       : "AI Engineer & Full-Stack Architect",
-  "organization": "AbyteSol (Founder & CEO)",
-  "clearance"   : "Level 5",
-  "mission"     : "INNOVATE. CONNECT. GROW.",
-  "location"    : "Pakistan",
-  "status"      : "Building. Shipping. Repeating."
+  "name"     : "Muhammad Arhum",
+  "role"     : ["AI Engineer", "Full-Stack Developer"],
+  "company"  : "AbyteSol (Founder & CEO)",
+  "mission"  : "INNOVATE. CONNECT. GROW.",
+  "location" : "Pakistan",
+  "status"   : "Building. Shipping. Repeating."
 }
 
 root@arhum:~$ ./boot_sequence.sh
-[  OK  ] Core neural identity loaded
-[  OK  ] AI agent runtime online
-[  OK  ] Full-stack engine spinning at 0.0.0.0:3000
-[  OK  ] Enterprise ERP & POS modules synchronized
-[  OK  ] Coffee reserves ................. CRITICAL ☕ (100%)
->> ALL SYSTEMS OPERATIONAL. Welcome to my digital command center._
+[  OK  ] Core identity loaded
+[  OK  ] AI modules online
+[  OK  ] Full-stack engine running
+[  OK  ] Business systems synced
+[  OK  ] Coffee supply ................. CRITICAL ☕
+>> All systems operational. Welcome, visitor._
 ```
 
 > **"Every great product starts with a question: What if we built it better?"**
 
 Main **Muhammad Arhum** hoon: AI Engineer aur Full-Stack Developer. Mera focus useful digital products, intelligent systems aur business software banana hai. Pehle sketch se working product tak: architecture, code, mushkil problems aur polished experience.
 
-Main **AbyteSol** ka **Founder & CEO** hoon.
+Main **AbyteSol** ka **Founder & CEO** bhi hoon.
 
 <div align="center">
 
 ```diff
-+ [ MISSION DIRECTIVE ] : INNOVATE.  CONNECT.  GROW.
++ INNOVATE.  CONNECT.  GROW.
 ```
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00d4ff,100:000000" width="100%" alt="Cyan Divider Line"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00d4ff,100:000000" width="100%" alt="divider"/>
 
 ## `> ACTIVE_MODULES`
 
@@ -83,25 +70,25 @@ Main **AbyteSol** ka **Founder & CEO** hoon.
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 `[ MODULE_01 ]` Artificial Intelligence
+### 🤖 [ MODULE_01 ] Artificial Intelligence
 ```yaml
-status: ACTIVE // 70% POWER
-core:
-  - Generative AI & Autonomous Agent Systems
-  - Intelligent Pipeline Automation
-  - Cognitive Tooling to Simplify Complex Work
+status: ACTIVE
+focus:
+  - AI-powered experiences
+  - Intelligent automation
+  - Tools that simplify complex work
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 `[ MODULE_02 ]` Full-Stack Engineering
+### 💻 [ MODULE_02 ] Full-Stack Engineering
 ```yaml
-status: ACTIVE // 85% POWER
-core:
-  - Resilient End-to-End Web Applications
-  - Responsive, Modern Cybernetic Interfaces
-  - High-Precision, Maintainable Codebases
+status: ACTIVE
+focus:
+  - End-to-end applications
+  - Modern interfaces
+  - Reliable, maintainable code
 ```
 
 </td>
@@ -109,25 +96,25 @@ core:
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 `[ MODULE_03 ]` Business Systems
+### 🏢 [ MODULE_03 ] Business Systems
 ```yaml
-status: ACTIVE // 90% POWER
-core:
-  - High-Throughput POS, CRM & ERP Architecture
-  - Real-time Inventory & Automated Billing Engines
-  - Fault-Tolerant Enterprise Business Workflows
+status: ACTIVE
+focus:
+  - POS / CRM / ERP
+  - Inventory & Billing
+  - Business workflows
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 `[ MODULE_04 ]` Product Development
+### 🚀 [ MODULE_04 ] Product Development
 ```yaml
-status: ACTIVE // 90% POWER
-core:
-  - Solving Acute Commercial Market Problems
-  - Zero-to-One Architecture & Product Strategy
-  - Commercial Scaling as Founder & CEO @ AbyteSol
+status: ACTIVE
+focus:
+  - Real-world problems
+  - Practical features
+  - Useful digital products
 ```
 
 </td>
@@ -142,48 +129,24 @@ core:
  BUSINESS SYSTEMS  [██████████████████░░]  90%
  DESKTOP APPS      [███████████████░░░░░]  75%
  PRODUCT THINKING  [██████████████████░░]  90%
- CAFFEINE SUPPLY   [████████████████████] 100%
+ CAFFEINE          [████████████████████] 100%
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00FF41,100:000000" width="100%" alt="Green Divider Line"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00ff9c,100:000000" width="100%" alt="divider"/>
 
 ## `> TECH_ARSENAL`
 
 <div align="center">
 
-### `[ 01_PROGRAMMING_LANGUAGES ]`
-<p>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41&labelColor=000000&color=00FF41" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF41&labelColor=000000&color=00FF41" alt="JavaScript"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,html,css,tailwind,electron,git,github,vscode&perline=6&theme=dark" alt="Tech Stack"/>
 
-### `[ 02_FRAMEWORKS_&_RUNTIMES ]`
-<p>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=00FF41&labelColor=000000&color=00FF41" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="Electron"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=00FF41&labelColor=000000&color=00FF41" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41&labelColor=000000&color=00FF41" alt="CSS3"/>
-</p>
+<br/><br/>
 
-### `[ 03_AI_&_DEVELOPER_TOOLS ]`
-<p>
-  <img src="https://img.shields.io/badge/AI_Automation-000000?style=for-the-badge&logo=openai&logoColor=00FF41&labelColor=000000&color=00FF41" alt="AI & Automation"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=00FF41" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="VS Code"/>
-</p>
-
-<br/>
-
-<!-- Comprehensive Skill Matrix Grid -->
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,html,css,tailwind,electron,git,github,vscode&perline=12&theme=dark" alt="Verified Skill Matrix"/>
+<img src="https://img.shields.io/badge/AI%20%26%20AUTOMATION-000000?style=for-the-badge&logo=openai&logoColor=00ff9c&labelColor=000000&color=00ff9c" alt="AI"/>
+<img src="https://img.shields.io/badge/FULL--STACK-000000?style=for-the-badge&logo=stackblitz&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="Full Stack"/>
+<img src="https://img.shields.io/badge/DESKTOP%20APPS-000000?style=for-the-badge&logo=electron&logoColor=00ff9c&labelColor=000000&color=00ff9c" alt="Desktop"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00d4ff,100:000000" width="100%" alt="Cyan Divider Line"/>
 
 ## `> MISSION_FILES`
 
@@ -192,29 +155,25 @@ core:
 <td width="50%" valign="top">
 
 ### 🎟️ `restaurant_pos.exe`
-**Classification**: Level 2 // POS · Orders · Restaurant Mgmt  
-Restaurant operations, order handling aur smooth daily workflows ke liye POS software.
+Restaurant operations, order handling aur smooth daily workflows ke liye POS project.
 
 ```text
-STATUS: PRODUCTION // LOW LATENCY
-FOCUS : Floorplan · Split Billing · KDS
-TECH  : Electron · React · TypeScript · Node
+CLASSIFIED: LEVEL 2
+FOCUS: POS · Orders · Restaurant Mgmt
 ```
-👉 [**DECRYPT FILE / VIEW REPOSITORY**](https://github.com/MuhamadArhum?tab=repositories)
+<a href="https://github.com/MuhamadArhum?tab=repositories">▶ DECRYPT FILE</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 📦 `inventory_core.exe`
-**Classification**: Level 2 // Inventory · Stock · Operations  
-Inventory organize karne aur stock management asaan banane ka enterprise software.
+Inventory organize karne aur stock management asaan banane ka business software.
 
 ```text
-STATUS: ACTIVE // REAL-TIME AUDIT
-FOCUS : Barcode Scanner · Low-Stock Alerts
-TECH  : Node.js · React · PostgreSQL · WS
+CLASSIFIED: LEVEL 2
+FOCUS: Inventory · Stock · Operations
 ```
-👉 [**DECRYPT FILE / VIEW REPOSITORY**](https://github.com/MuhamadArhum?tab=repositories)
+<a href="https://github.com/MuhamadArhum?tab=repositories">▶ DECRYPT FILE</a>
 
 </td>
 </tr>
@@ -222,52 +181,46 @@ TECH  : Node.js · React · PostgreSQL · WS
 <td width="50%" valign="top">
 
 ### 🧾 `billing_engine.exe`
-**Classification**: Level 3 // Billing · Transactions · Automation  
-Billing logic, fiscal compliance, transactions aur business processes software.
+Billing logic, transactions aur business processes ke gird software.
 
 ```text
-STATUS: ACTIVE // ZERO DRIFT LEDGER
-FOCUS : Tax Calculations · PDF Signatures
-TECH  : TypeScript · Node.js · Prisma · APIs
+CLASSIFIED: LEVEL 3
+FOCUS: Billing · Transactions · Automation
 ```
-👉 [**DECRYPT FILE / VIEW REPOSITORY**](https://github.com/MuhamadArhum?tab=repositories)
+<a href="https://github.com/MuhamadArhum?tab=repositories">▶ DECRYPT FILE</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏢 `crm_erp_suite.exe`
-**Classification**: Level 3 // CRM · ERP · Business Mgmt  
 Customer management aur operational workflows behtar karne ke liye CRM & ERP.
 
 ```text
-STATUS: PRODUCTION // ENTERPRISE GRADE
-FOCUS : Kanban Pipelines · 360 Customer BI
-TECH  : React · TypeScript · Node · RBAC
+CLASSIFIED: LEVEL 3
+FOCUS: CRM · ERP · Business Mgmt
 ```
-👉 [**DECRYPT FILE / VIEW REPOSITORY**](https://github.com/MuhamadArhum?tab=repositories)
+<a href="https://github.com/MuhamadArhum?tab=repositories">▶ DECRYPT FILE</a>
 
 </td>
 </tr>
 </table>
 
-> *Note: To connect direct repository links, replace `https://github.com/MuhamadArhum?tab=repositories` with the exact repository URL (e.g., `https://github.com/MuhamadArhum/<repo-name>`).*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00FF41,100:000000" width="100%" alt="Neon Divider Line"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00d4ff,100:000000" width="100%" alt="divider"/>
 
 ## `> LIVE_TELEMETRY`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhamadArhum&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF41&text_color=a7f3d0&icon_color=00d4ff&ring_color=00FF41&rank_icon=github" alt="MuhamadArhum GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadArhum&layout=compact&hide_border=true&bg_color=000000&title_color=00FF41&text_color=a7f3d0" alt="MuhamadArhum Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhamadArhum&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff9c&text_color=a7f3d0&icon_color=00d4ff&ring_color=00ff9c&rank_icon=github" alt="Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadArhum&layout=compact&hide_border=true&bg_color=000000&title_color=00ff9c&text_color=a7f3d0" alt="Languages"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhamadArhum&background=000000&ring=00FF41&fire=00d4ff&currStreakLabel=00FF41&sideLabels=a7f3d0&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280&stroke=00FF4133&hide_border=true" alt="MuhamadArhum Contribution Streak"/>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhamadArhum&background=000000&ring=00ff9c&fire=00d4ff&currStreakLabel=00ff9c&sideLabels=a7f3d0&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280&stroke=00ff9c33&hide_border=true" alt="Streak"/>
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhamadArhum&bg_color=000000&color=00FF41&line=00FF41&point=00d4ff&area=true&area_color=00FF41&hide_border=true" alt="MuhamadArhum GitHub Activity Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhamadArhum&bg_color=000000&color=00ff9c&line=00ff9c&point=00d4ff&area=true&area_color=00ff9c&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
@@ -275,7 +228,7 @@ TECH  : React · TypeScript · Node · RBAC
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MuhamadArhum&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub Matrix Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MuhamadArhum&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies"/>
 
 </div>
 
@@ -283,34 +236,32 @@ TECH  : React · TypeScript · Node · RBAC
 
 <div align="center">
 
-<!-- Automated GitHub Contribution Snake generated via .github/workflows/snake.yml -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhamadArhum/MuhamadArhum/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhamadArhum/MuhamadArhum/output/github-snake.svg" />
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/MuhamadArhum/MuhamadArhum/output/github-snake-dark.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/MuhamadArhum/MuhamadArhum/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00FF41,100:000000" width="100%" alt="Neon Divider Line"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00ff9c,100:000000" width="100%" alt="divider"/>
 
 ## `> ROADMAP.md`
 
 ```text
 [x] Build real business software (POS, Inventory, Billing)
-[x] Launch AbyteSol (Founder & CEO)
-[~] Expand AI-powered autonomous features into every enterprise product
-[~] Ship more open projects & tools on GitHub
-[ ] Scale AbyteSol into an international tech conglomerate
-[ ] Keep learning. Keep building. Keep shipping.
+[x] Launch AbyteSol
+[~] Expand AI-powered features into every product
+[~] Ship more open projects on GitHub
+[ ] Scale AbyteSol into a global tech brand
+[ ] Keep learning. Keep shipping.
 ```
 
 ## `> SYSTEM_STATUS`
 
 ```ini
 [CURRENT_FOCUS]   Building practical software and digital solutions
-[INTERESTS]       AI, automation, intelligent autonomous applications
-[BUILD_STACK]     Modern development tools and technologies (React, TS, Node, Python)
+[INTERESTS]       AI, automation, intelligent applications
+[BUILD_STACK]     Modern development tools and technologies
 [APPROACH]        Understand the problem > Simplify the solution > Build with purpose
 [AVAILABILITY]    Open to meaningful collaborations and exciting projects
 [LOCATION]        Pakistan
@@ -320,25 +271,23 @@ TECH  : React · TypeScript · Node · RBAC
 
 <div align="center">
 
-<!-- Replace YOUR_LINKEDIN, YOUR_EMAIL, YOUR_WEBSITE with your actual coordinates -->
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="LinkedIn Profile"/></a>
-<a href="mailto:muhamadarhum425@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000&color=00FF41" alt="Email Direct"/></a>
-<a href="https://YOUR_WEBSITE"><img src="https://img.shields.io/badge/ABYTESOL-000000?style=for-the-badge&logo=googlechrome&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="AbyteSol Official Site"/></a>
+<!-- YAHAN APNE LINKS LAGAYEIN: YOUR_LINKEDIN, YOUR_EMAIL, YOUR_WEBSITE -->
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="LinkedIn"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=000000&color=00ff9c" alt="Email"/></a>
+<a href="https://YOUR_WEBSITE"><img src="https://img.shields.io/badge/ABYTESOL-000000?style=for-the-badge&logo=googlechrome&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="AbyteSol"/></a>
 
 <br/><br/>
 
 ### `> THINK BIGGER. BUILD SMARTER. KEEP SHIPPING._`
 
 <a href="https://github.com/MuhamadArhum?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=00FF41" alt="Explore Repositories"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-000000?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=000000&color=00ff9c" alt="Explore"/>
 </a>
 <a href="https://github.com/MuhamadArhum">
-<img src="https://img.shields.io/badge/FOLLOW%20MY%20JOURNEY-000000?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="Follow on GitHub"/>
+<img src="https://img.shields.io/badge/FOLLOW%20MY%20JOURNEY-000000?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="Follow"/>
 </a>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00FF41,45:001a0a,100:000000" alt="Cyber Waving Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00ff9c,50:001a0f,100:000000" alt="Footer"/>
 
 **`[ INNOVATE. CONNECT. GROW. ]`**
 
