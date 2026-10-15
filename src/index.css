@@ -1,0 +1,71 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --neon-green: #00ff9c;
+    --neon-cyan: #00d4ff;
+    --terminal-dim: #a7f3d0;
+  }
+
+  body {
+    background-color: #030705;
+    color: #a7f3d0;
+    font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  }
+
+  /* Custom terminal scrollbars */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #050c08;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #00ff9c33;
+    border-radius: 3px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #00ff9c88;
+  }
+}
+
+/* CRT scanline and cyber glow utility classes */
+.crt-overlay {
+  background: linear-gradient(
+    rgba(18, 16, 16, 0) 50%, 
+    rgba(0, 0, 0, 0.25) 50%
+  ), linear-gradient(
+    90deg,
+    rgba(255, 0, 0, 0.03),
+    rgba(0, 255, 0, 0.01),
+    rgba(0, 0, 255, 0.03)
+  );
+  background-size: 100% 3px, 3px 100%;
+  pointer-events: none;
+}
+
+.cyber-glow-green {
+  box-shadow: 0 0 15px rgba(0, 255, 156, 0.25), inset 0 0 15px rgba(0, 255, 156, 0.05);
+}
+
+.cyber-glow-cyan {
+  box-shadow: 0 0 15px rgba(0, 212, 255, 0.25), inset 0 0 15px rgba(0, 212, 255, 0.05);
+}
+
+.text-glow-green {
+  text-shadow: 0 0 8px rgba(0, 255, 156, 0.6);
+}
+
+.text-glow-cyan {
+  text-shadow: 0 0 8px rgba(0, 212, 255, 0.6);
+}
+
+@keyframes blink {
+  0%, 49% { opacity: 1; }
+  50%, 100% { opacity: 0; }
+}
+
+.animate-cursor-blink {
+  animation: blink 1s infinite;
+}
