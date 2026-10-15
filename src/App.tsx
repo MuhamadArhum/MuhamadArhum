@@ -50,6 +50,42 @@ export const App: React.FC = () => {
         setSoundEnabled={setSoundEnabled}
       />
 
+      {/* Prominent GitHub Profile README Copy Banner */}
+      <div className="relative z-20 bg-gradient-to-r from-[#00170a] via-[#002b14] to-[#00170a] border-b border-[#00FF41]/40 py-3 px-4 shadow-[0_4px_20px_rgba(0,255,65,0.15)]">
+        <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-3 text-xs font-mono">
+          <div className="flex items-center gap-2.5">
+            <span className="w-2.5 h-2.5 rounded-full bg-[#00FF41] animate-ping" />
+            <span className="text-white font-bold tracking-wide">
+              🔥 GITHUB PROFILE READY // Target: <span className="text-[#00FF41]">MuhamadArhum/README.md</span>
+            </span>
+            <span className="hidden md:inline text-neutral-400">
+              (Aapki profile ka sara cyberpunk code tayyar hai)
+            </span>
+          </div>
+
+          <div className="flex items-center gap-2">
+            <button
+              onClick={() => {
+                audioEngine.playSuccess();
+                setIsStudioOpen(true);
+              }}
+              className="px-3 py-1 rounded bg-[#00d4ff]/20 border border-[#00d4ff] text-[#00d4ff] hover:bg-[#00d4ff]/30 font-bold transition-all"
+            >
+              ⚙ CUSTOMIZE DETAILS
+            </button>
+            <button
+              onClick={() => {
+                audioEngine.playSuccess();
+                setIsReadmeOpen(true);
+              }}
+              className="px-4 py-1.5 rounded bg-[#00FF41] text-black font-extrabold hover:bg-[#33ff66] transition-all flex items-center gap-1.5 shadow-[0_0_15px_rgba(0,255,65,0.4)] cursor-pointer"
+            >
+              <span>📋 COPY README.MD CODE</span>
+            </button>
+          </div>
+        </div>
+      </div>
+
       {/* Main Content Sections */}
       <main className="relative z-10">
         {/* ACCESSING_USER_FILE (Hero Identity & Bio Section) */}
