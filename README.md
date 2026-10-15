@@ -1,45 +1,56 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,50:001a0f,100:00ff9c&text=MUHAMMAD%20ARHUM&fontColor=00ff9c&fontSize=52&fontAlignY=40&desc=%5B%20SYSTEM%20ONLINE%20%5D%20%C2%B7%20AI%20ENGINEER%20%C2%B7%20FULL-STACK%20DEV&descAlignY=62&descSize=16&animation=twinkling" alt="Cyber Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:000000,50:001a0f,100:00ff9c&text=MUHAMMAD%20ARHUM&fontColor=00ff9c&fontSize=54&fontAlignY=38&desc=%E2%96%8C%20SYSTEM%20ONLINE%20%E2%96%90%20%C2%B7%20AI%20ENGINEER%20%C2%B7%20FULL-STACK%20DEV%20%C2%B7%20FOUNDER&descAlignY=60&descSize=15&animation=twinkling" alt="Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=600&color=00FF9C&background=00000000&center=true&vCenter=true&width=900&height=50&lines=%3E+INITIALIZING+MUHAMMAD_ARHUM.exe+...;%3E+LOADING+MODULES%3A+AI+%7C+FULL-STACK+%7C+ERP+%7C+POS;%3E+ACCESS+GRANTED+%E2%9C%94;%3E+FOUNDER+%26+CEO+%40+ABYTESOL;%3E+INNOVATE.+CONNECT.+GROW." alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=600&color=00FF9C&background=00000000&center=true&vCenter=true&width=950&height=50&lines=%3E+INITIALIZING+MUHAMMAD_ARHUM.exe+...;%3E+SCANNING+NETWORK...+3+NODES+FOUND;%3E+LOADING+MODULES%3A+AI+%7C+FULL-STACK+%7C+ERP+%7C+POS;%3E+BYPASSING+FIREWALL...+ACCESS+GRANTED+%E2%9C%94;%3E+FOUNDER+%26+CEO+%40+ABYTESOL;%3E+INNOVATE.+CONNECT.+GROW." alt="Typing" />
 
 <br/>
 
-<a href="https://github.com/MuhamadArhum">
-<img src="https://img.shields.io/badge/ACCESS-PROFILE-000000?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=000000&color=00ff9c" alt="Profile"/>
-</a>
-<a href="https://github.com/MuhamadArhum?tab=repositories">
-<img src="https://img.shields.io/badge/OPEN-REPOSITORIES-000000?style=for-the-badge&logo=gitbook&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="Repos"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=MuhamadArhum&label=VISITORS&color=00ff9c&style=for-the-badge&labelColor=000000" alt="Views"/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9c?style=for-the-badge&labelColor=000000" alt="status"/>
+<img src="https://img.shields.io/badge/CLEARANCE-LEVEL%205-00d4ff?style=for-the-badge&labelColor=000000" alt="clearance"/>
+<img src="https://img.shields.io/badge/LOCATION-PAKISTAN-00ff9c?style=for-the-badge&labelColor=000000" alt="location"/>
+<img src="https://komarev.com/ghpvc/?username=MuhamadArhum&label=VISITORS&color=00d4ff&style=for-the-badge&labelColor=000000" alt="views"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00ff9c,100:000000" width="100%" alt="divider"/>
 
-## `> BOOT_SEQUENCE`
-
-```bash
-$ sudo ./boot_arhum.sh
-
-[  OK  ] Loading core identity ............. Muhammad Arhum
-[  OK  ] Role .............................. AI Engineer | Full-Stack Developer
-[  OK  ] Organization ...................... AbyteSol (Founder & CEO)
-[  OK  ] Motto ............................. INNOVATE. CONNECT. GROW.
-[  OK  ] Location .......................... Pakistan
-[  OK  ] Status ............................ ONLINE & SHIPPING
-
->> All systems operational. Welcome, visitor.
+```text
+ __  __ _   _ _   _    _    __  __ __  __    _    ____       _    ____  _   _ _   _ __  __
+|  \/  | | | | | | |  / \  |  \/  |  \/  |  / \  |  _ \     / \  |  _ \| | | | | | |  \/  |
+| |\/| | | | | |_| | / _ \ | |\/| | |\/| | / _ \ | | | |   / _ \ | |_) | |_| | | | | |\/| |
+| |  | | |_| |  _  |/ ___ \| |  | | |  | |/ ___ \| |_| |  / ___ \|  _ <|  _  | |_| | |  | |
+|_|  |_|\___/|_| |_/_/   \_\_|  |_|_|  |_/_/   \_\____/  /_/   \_\_| \_\_| |_|\___/|_|  |_|
 ```
 
----
+## `> ACCESSING_USER_FILE...`
 
-## `> OPERATOR_PROFILE`
+```bash
+root@arhum:~$ whoami
+muhammad_arhum
+
+root@arhum:~$ cat identity.json
+{
+  "name"     : "Muhammad Arhum",
+  "role"     : ["AI Engineer", "Full-Stack Developer"],
+  "company"  : "AbyteSol (Founder & CEO)",
+  "mission"  : "INNOVATE. CONNECT. GROW.",
+  "location" : "Pakistan",
+  "status"   : "Building. Shipping. Repeating."
+}
+
+root@arhum:~$ ./boot_sequence.sh
+[  OK  ] Core identity loaded
+[  OK  ] AI modules online
+[  OK  ] Full-stack engine running
+[  OK  ] Business systems synced
+[  OK  ] Coffee supply ................. CRITICAL ☕
+>> All systems operational. Welcome, visitor._
+```
 
 > **"Every great product starts with a question: What if we built it better?"**
 
-Main **Muhammad Arhum** hoon: AI Engineer aur Full-Stack Developer. Mera focus useful digital products, intelligent systems aur business software banana hai. Pehle sketch se lekar working product tak: architecture plan karna, code likhna, mushkil problems solve karna aur experience ko polish karna.
+Main **Muhammad Arhum** hoon: AI Engineer aur Full-Stack Developer. Mera focus useful digital products, intelligent systems aur business software banana hai. Pehle sketch se working product tak: architecture, code, mushkil problems aur polished experience.
 
 Main **AbyteSol** ka **Founder & CEO** bhi hoon.
 
@@ -51,7 +62,7 @@ Main **AbyteSol** ka **Founder & CEO** bhi hoon.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00d4ff,100:000000" width="100%" alt="divider"/>
 
 ## `> ACTIVE_MODULES`
 
@@ -62,9 +73,10 @@ Main **AbyteSol** ka **Founder & CEO** bhi hoon.
 ### 🤖 [ MODULE_01 ] Artificial Intelligence
 ```yaml
 status: ACTIVE
-focus: AI-powered experiences
-       Intelligent automation
-       Tools that simplify complex work
+focus:
+  - AI-powered experiences
+  - Intelligent automation
+  - Tools that simplify complex work
 ```
 
 </td>
@@ -73,9 +85,10 @@ focus: AI-powered experiences
 ### 💻 [ MODULE_02 ] Full-Stack Engineering
 ```yaml
 status: ACTIVE
-focus: End-to-end applications
-       Modern interfaces
-       Reliable, maintainable code
+focus:
+  - End-to-end applications
+  - Modern interfaces
+  - Reliable, maintainable code
 ```
 
 </td>
@@ -86,9 +99,10 @@ focus: End-to-end applications
 ### 🏢 [ MODULE_03 ] Business Systems
 ```yaml
 status: ACTIVE
-focus: POS | CRM | ERP
-       Inventory | Billing
-       Business workflows
+focus:
+  - POS / CRM / ERP
+  - Inventory & Billing
+  - Business workflows
 ```
 
 </td>
@@ -97,16 +111,28 @@ focus: POS | CRM | ERP
 ### 🚀 [ MODULE_04 ] Product Development
 ```yaml
 status: ACTIVE
-focus: Real-world problems
-       Practical features
-       Useful digital products
+focus:
+  - Real-world problems
+  - Practical features
+  - Useful digital products
 ```
 
 </td>
 </tr>
 </table>
 
----
+## `> POWER_LEVELS`
+
+```text
+ AI & AUTOMATION   [██████████████░░░░░░]  70%
+ FULL-STACK DEV    [█████████████████░░░]  85%
+ BUSINESS SYSTEMS  [██████████████████░░]  90%
+ DESKTOP APPS      [███████████████░░░░░]  75%
+ PRODUCT THINKING  [██████████████████░░]  90%
+ CAFFEINE          [████████████████████] 100%
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00ff9c,100:000000" width="100%" alt="divider"/>
 
 ## `> TECH_ARSENAL`
 
@@ -122,8 +148,6 @@ focus: Real-world problems
 
 </div>
 
----
-
 ## `> MISSION_FILES`
 
 <table>
@@ -133,21 +157,23 @@ focus: Real-world problems
 ### 🎟️ `restaurant_pos.exe`
 Restaurant operations, order handling aur smooth daily workflows ke liye POS project.
 
-```
+```text
+CLASSIFIED: LEVEL 2
 FOCUS: POS · Orders · Restaurant Mgmt
 ```
-<a href="https://github.com/MuhamadArhum?tab=repositories">▶ ACCESS FILE</a>
+<a href="https://github.com/MuhamadArhum?tab=repositories">▶ DECRYPT FILE</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 📦 `inventory_core.exe`
-Inventory organize karne aur stock management asaan banane ka business software concept.
+Inventory organize karne aur stock management asaan banane ka business software.
 
-```
+```text
+CLASSIFIED: LEVEL 2
 FOCUS: Inventory · Stock · Operations
 ```
-<a href="https://github.com/MuhamadArhum?tab=repositories">▶ ACCESS FILE</a>
+<a href="https://github.com/MuhamadArhum?tab=repositories">▶ DECRYPT FILE</a>
 
 </td>
 </tr>
@@ -157,27 +183,29 @@ FOCUS: Inventory · Stock · Operations
 ### 🧾 `billing_engine.exe`
 Billing logic, transactions aur business processes ke gird software.
 
-```
+```text
+CLASSIFIED: LEVEL 3
 FOCUS: Billing · Transactions · Automation
 ```
-<a href="https://github.com/MuhamadArhum?tab=repositories">▶ ACCESS FILE</a>
+<a href="https://github.com/MuhamadArhum?tab=repositories">▶ DECRYPT FILE</a>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🏢 `crm_erp_suite.exe`
-Customer management aur operational workflows behtar karne ke liye CRM & ERP concepts.
+Customer management aur operational workflows behtar karne ke liye CRM & ERP.
 
-```
+```text
+CLASSIFIED: LEVEL 3
 FOCUS: CRM · ERP · Business Mgmt
 ```
-<a href="https://github.com/MuhamadArhum?tab=repositories">▶ ACCESS FILE</a>
+<a href="https://github.com/MuhamadArhum?tab=repositories">▶ DECRYPT FILE</a>
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00d4ff,100:000000" width="100%" alt="divider"/>
 
 ## `> LIVE_TELEMETRY`
 
@@ -188,15 +216,45 @@ FOCUS: CRM · ERP · Business Mgmt
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhamadArhum&bg_color=000000&color=00ff9c&line=00ff9c&point=00d4ff&area=true&area_color=00ff9c&hide_border=true" alt="Activity Graph"/>
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhamadArhum&background=000000&ring=00ff9c&fire=00d4ff&currStreakLabel=00ff9c&sideLabels=a7f3d0&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280&stroke=00ff9c33&hide_border=true" alt="Streak"/>
 
 <br/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhamadArhum&background=000000&ring=00ff9c&fire=00d4ff&currStreakLabel=00ff9c&sideLabels=a7f3d0&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280&stroke=00ff9c33&hide_border=true" alt="Streak"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhamadArhum&bg_color=000000&color=00ff9c&line=00ff9c&point=00d4ff&area=true&area_color=00ff9c&hide_border=true" alt="Activity Graph"/>
 
 </div>
 
----
+## `> ACHIEVEMENTS_UNLOCKED`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=MuhamadArhum&theme=matrix&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies"/>
+
+</div>
+
+## `> CONTRIBUTION_SNAKE`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhamadArhum/MuhamadArhum/output/github-snake-dark.svg" />
+  <img alt="snake eating contributions" src="https://raw.githubusercontent.com/MuhamadArhum/MuhamadArhum/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00ff9c,100:000000" width="100%" alt="divider"/>
+
+## `> ROADMAP.md`
+
+```text
+[x] Build real business software (POS, Inventory, Billing)
+[x] Launch AbyteSol
+[~] Expand AI-powered features into every product
+[~] Ship more open projects on GitHub
+[ ] Scale AbyteSol into a global tech brand
+[ ] Keep learning. Keep shipping.
+```
 
 ## `> SYSTEM_STATUS`
 
@@ -209,13 +267,18 @@ FOCUS: CRM · ERP · Business Mgmt
 [LOCATION]        Pakistan
 ```
 
----
+## `> ESTABLISH_CONNECTION`
 
 <div align="center">
 
-### `> THINK BIGGER. BUILD SMARTER. KEEP SHIPPING._`
+<!-- YAHAN APNE LINKS LAGAYEIN: YOUR_LINKEDIN, YOUR_EMAIL, YOUR_WEBSITE -->
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="LinkedIn"/></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=00ff9c&labelColor=000000&color=00ff9c" alt="Email"/></a>
+<a href="https://YOUR_WEBSITE"><img src="https://img.shields.io/badge/ABYTESOL-000000?style=for-the-badge&logo=googlechrome&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="AbyteSol"/></a>
 
-<br/>
+<br/><br/>
+
+### `> THINK BIGGER. BUILD SMARTER. KEEP SHIPPING._`
 
 <a href="https://github.com/MuhamadArhum?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-000000?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=000000&color=00ff9c" alt="Explore"/>
@@ -224,7 +287,7 @@ FOCUS: CRM · ERP · Business Mgmt
 <img src="https://img.shields.io/badge/FOLLOW%20MY%20JOURNEY-000000?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="Follow"/>
 </a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00ff9c,50:001a0f,100:000000" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:00ff9c,50:001a0f,100:000000" alt="Footer"/>
 
 **`[ INNOVATE. CONNECT. GROW. ]`**
 
