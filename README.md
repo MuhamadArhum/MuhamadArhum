@@ -11,17 +11,15 @@
 <img src="https://img.shields.io/badge/LOCATION-PAKISTAN-00ff9c?style=for-the-badge&labelColor=000000" alt="location"/>
 <img src="https://komarev.com/ghpvc/?username=MuhamadArhum&label=VISITORS&color=00d4ff&style=for-the-badge&labelColor=000000" alt="views"/>
 
+<br/>
+
+<img src="assets/matrix-rain.svg" width="100%" alt="Matrix Rain"/>
+
+<img src="assets/glitch-title.svg" width="100%" alt="Glitch Title"/>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00ff9c,100:000000" width="100%" alt="divider"/>
-
-```text
- __  __ _   _ _   _    _    __  __ __  __    _    ____       _    ____  _   _ _   _ __  __
-|  \/  | | | | | | |  / \  |  \/  |  \/  |  / \  |  _ \     / \  |  _ \| | | | | | |  \/  |
-| |\/| | | | | |_| | / _ \ | |\/| | |\/| | / _ \ | | | |   / _ \ | |_) | |_| | | | | |\/| |
-| |  | | |_| |  _  |/ ___ \| |  | | |  | |/ ___ \| |_| |  / ___ \|  _ <|  _  | |_| | |  | |
-|_|  |_|\___/|_| |_/_/   \_\_|  |_|_|  |_/_/   \_\____/  /_/   \_\_| \_\_| |_|\___/|_|  |_|
-```
+<img src="assets/divider.svg" width="100%" alt="divider"/>
 
 ## `> ACCESSING_USER_FILE...`
 
@@ -62,7 +60,13 @@ Main **AbyteSol** ka **Founder & CEO** bhi hoon.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00d4ff,100:000000" width="100%" alt="divider"/>
+<img src="assets/divider.svg" width="100%" alt="divider"/>
+
+<div align="center">
+
+<img src="assets/hud-radar.svg" width="100%" alt="HUD Radar"/>
+
+</div>
 
 ## `> ACTIVE_MODULES`
 
@@ -123,16 +127,13 @@ focus:
 
 ## `> POWER_LEVELS`
 
-```text
- AI & AUTOMATION   [██████████████░░░░░░]  70%
- FULL-STACK DEV    [█████████████████░░░]  85%
- BUSINESS SYSTEMS  [██████████████████░░]  90%
- DESKTOP APPS      [███████████████░░░░░]  75%
- PRODUCT THINKING  [██████████████████░░]  90%
- CAFFEINE          [████████████████████] 100%
-```
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00ff9c,100:000000" width="100%" alt="divider"/>
+<img src="assets/system-monitor.svg" width="100%" alt="System Monitor"/>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" alt="divider"/>
 
 ## `> TECH_ARSENAL`
 
@@ -205,9 +206,11 @@ FOCUS: CRM · ERP · Business Mgmt
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00d4ff,100:000000" width="100%" alt="divider"/>
+<img src="assets/divider.svg" width="100%" alt="divider"/>
 
 ## `> LIVE_TELEMETRY`
+
+<img src="assets/heartbeat.svg" width="100%" alt="Heartbeat"/>
 
 <div align="center">
 
@@ -243,7 +246,7 @@ FOCUS: CRM · ERP · Business Mgmt
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:000000,50:00ff9c,100:000000" width="100%" alt="divider"/>
+<img src="assets/divider.svg" width="100%" alt="divider"/>
 
 ## `> ROADMAP.md`
 
