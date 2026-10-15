@@ -1,76 +1,106 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050816,35:111827,70:312e81,100:00d4ff&text=MUHAMMAD%20ARHUM&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=THE%20NEXT%20CHAPTER%20IN%20TECHNOLOGY&descAlignY=58&animation=fadeIn&stroke=00d4ff&strokeWidth=1" alt="Cinematic Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:000000,50:001a0f,100:00ff9c&text=MUHAMMAD%20ARHUM&fontColor=00ff9c&fontSize=52&fontAlignY=40&desc=%5B%20SYSTEM%20ONLINE%20%5D%20%C2%B7%20AI%20ENGINEER%20%C2%B7%20FULL-STACK%20DEV&descAlignY=62&descSize=16&animation=twinkling" alt="Cyber Header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2400&pause=600&color=00FF9C&background=00000000&center=true&vCenter=true&width=900&height=50&lines=%3E+INITIALIZING+MUHAMMAD_ARHUM.exe+...;%3E+LOADING+MODULES%3A+AI+%7C+FULL-STACK+%7C+ERP+%7C+POS;%3E+ACCESS+GRANTED+%E2%9C%94;%3E+FOUNDER+%26+CEO+%40+ABYTESOL;%3E+INNOVATE.+CONNECT.+GROW." alt="Typing" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2600&pause=700&color=00D4FF&center=true&vCenter=true&width=850&lines=AI+ENGINEER+%7C+FULL-STACK+DEVELOPER;BUILDING+SYSTEMS+THAT+SOLVE+REAL+PROBLEMS;FOUNDER+%26+CEO+%40+ABYTESOL;TURNING+IDEAS+INTO+REALITY..." alt="Animated Typing Introduction" />
-
-<br/><br/>
-
 <a href="https://github.com/MuhamadArhum">
-<img src="https://img.shields.io/badge/PROFILE-MuhamadArhum-0b1020?style=for-the-badge&logo=github&logoColor=00d4ff" alt="GitHub Profile"/>
+<img src="https://img.shields.io/badge/ACCESS-PROFILE-000000?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=000000&color=00ff9c" alt="Profile"/>
 </a>
-
 <a href="https://github.com/MuhamadArhum?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-0b1020?style=for-the-badge&logo=github&logoColor=8b5cf6" alt="My Projects"/>
+<img src="https://img.shields.io/badge/OPEN-REPOSITORIES-000000?style=for-the-badge&logo=gitbook&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="Repos"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=MuhamadArhum&label=VISITORS&color=00ff9c&style=for-the-badge&labelColor=000000" alt="Views"/>
 
 </div>
 
 ---
 
-## 🎬 THE STORY
+## `> BOOT_SEQUENCE`
 
-> **Every great product starts with a question: What if we built it better?**
+```bash
+$ sudo ./boot_arhum.sh
 
-I'm **Muhammad Arhum** — an AI Engineer and Full-Stack Developer focused on building useful digital products, intelligent systems, and business software.
+[  OK  ] Loading core identity ............. Muhammad Arhum
+[  OK  ] Role .............................. AI Engineer | Full-Stack Developer
+[  OK  ] Organization ...................... AbyteSol (Founder & CEO)
+[  OK  ] Motto ............................. INNOVATE. CONNECT. GROW.
+[  OK  ] Location .......................... Pakistan
+[  OK  ] Status ............................ ONLINE & SHIPPING
 
-I enjoy taking ideas from the first sketch to a working product: planning the architecture, writing the code, solving difficult problems, and polishing the experience.
+>> All systems operational. Welcome, visitor.
+```
 
-I'm also the **Founder & CEO of AbyteSol**, where our mission is simple:
+---
+
+## `> OPERATOR_PROFILE`
+
+> **"Every great product starts with a question: What if we built it better?"**
+
+Main **Muhammad Arhum** hoon: AI Engineer aur Full-Stack Developer. Mera focus useful digital products, intelligent systems aur business software banana hai. Pehle sketch se lekar working product tak: architecture plan karna, code likhna, mushkil problems solve karna aur experience ko polish karna.
+
+Main **AbyteSol** ka **Founder & CEO** bhi hoon.
 
 <div align="center">
 
-# INNOVATE. CONNECT. GROW.
+```diff
++ INNOVATE.  CONNECT.  GROW.
+```
 
 </div>
 
 ---
 
-## 🧠 THE MISSION
+## `> ACTIVE_MODULES`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 Artificial Intelligence
-
-Exploring practical AI-powered experiences, intelligent automation, and tools that make complex work simpler.
+### 🤖 [ MODULE_01 ] Artificial Intelligence
+```yaml
+status: ACTIVE
+focus: AI-powered experiences
+       Intelligent automation
+       Tools that simplify complex work
+```
 
 </td>
 <td width="50%" valign="top">
 
-### 💻 Full-Stack Engineering
-
-Building end-to-end applications with modern interfaces, reliable logic, and maintainable code.
+### 💻 [ MODULE_02 ] Full-Stack Engineering
+```yaml
+status: ACTIVE
+focus: End-to-end applications
+       Modern interfaces
+       Reliable, maintainable code
+```
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 Business Systems
-
-Developing solutions around POS, CRM, ERP, inventory management, billing, and business workflows.
+### 🏢 [ MODULE_03 ] Business Systems
+```yaml
+status: ACTIVE
+focus: POS | CRM | ERP
+       Inventory | Billing
+       Business workflows
+```
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Product Development
-
-Turning real-world problems into practical features and useful digital products.
+### 🚀 [ MODULE_04 ] Product Development
+```yaml
+status: ACTIVE
+focus: Real-world problems
+       Practical features
+       Useful digital products
+```
 
 </td>
 </tr>
@@ -78,133 +108,126 @@ Turning real-world problems into practical features and useful digital products.
 
 ---
 
-## ⚡ TECH ARSENAL
+## `> TECH_ARSENAL`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,html,css,tailwind,electron,git,github,vscode&perline=6" alt="Technology Stack"/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nodejs,html,css,tailwind,electron,git,github,vscode&perline=6&theme=dark" alt="Tech Stack"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/AI%20%26%20Automation-050816?style=for-the-badge&logo=openai&logoColor=00D4FF" alt="AI and Automation"/>
-
-<img src="https://img.shields.io/badge/Full--Stack%20Development-050816?style=for-the-badge&logo=stackblitz&logoColor=8B5CF6" alt="Full Stack Development"/>
-
-<img src="https://img.shields.io/badge/Desktop%20Applications-050816?style=for-the-badge&logo=electron&logoColor=00D4FF" alt="Desktop Applications"/>
+<img src="https://img.shields.io/badge/AI%20%26%20AUTOMATION-000000?style=for-the-badge&logo=openai&logoColor=00ff9c&labelColor=000000&color=00ff9c" alt="AI"/>
+<img src="https://img.shields.io/badge/FULL--STACK-000000?style=for-the-badge&logo=stackblitz&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="Full Stack"/>
+<img src="https://img.shields.io/badge/DESKTOP%20APPS-000000?style=for-the-badge&logo=electron&logoColor=00ff9c&labelColor=000000&color=00ff9c" alt="Desktop"/>
 
 </div>
 
 ---
 
-## 🍿 FEATURED PROJECTS
-
-<div align="center">
+## `> MISSION_FILES`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎟️ Restaurant POS
+### 🎟️ `restaurant_pos.exe`
+Restaurant operations, order handling aur smooth daily workflows ke liye POS project.
 
-A point-of-sale project focused on restaurant operations, order handling, and smoother daily workflows.
-
-**Focus:** POS · Orders · Restaurant Management
-
-<a href="https://github.com/MuhamadArhum?tab=repositories">▶ Explore Repositories</a>
+```
+FOCUS: POS · Orders · Restaurant Mgmt
+```
+<a href="https://github.com/MuhamadArhum?tab=repositories">▶ ACCESS FILE</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 📦 Inventory Management
+### 📦 `inventory_core.exe`
+Inventory organize karne aur stock management asaan banane ka business software concept.
 
-A business software concept for organizing inventory and simplifying stock management.
-
-**Focus:** Inventory · Stock Tracking · Operations
-
-<a href="https://github.com/MuhamadArhum?tab=repositories">▶ Explore Repositories</a>
+```
+FOCUS: Inventory · Stock · Operations
+```
+<a href="https://github.com/MuhamadArhum?tab=repositories">▶ ACCESS FILE</a>
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-### 🧾 Billing Systems
+### 🧾 `billing_engine.exe`
+Billing logic, transactions aur business processes ke gird software.
 
-Building software around billing logic, transactions, and business processes.
-
-**Focus:** Billing · Transactions · Automation
-
-<a href="https://github.com/MuhamadArhum?tab=repositories">▶ Explore Repositories</a>
+```
+FOCUS: Billing · Transactions · Automation
+```
+<a href="https://github.com/MuhamadArhum?tab=repositories">▶ ACCESS FILE</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 CRM & ERP Solutions
+### 🏢 `crm_erp_suite.exe`
+Customer management aur operational workflows behtar karne ke liye CRM & ERP concepts.
 
-Developing business software concepts to improve customer management and operational workflows.
-
-**Focus:** CRM · ERP · Business Management
-
-<a href="https://github.com/MuhamadArhum?tab=repositories">▶ Explore Repositories</a>
+```
+FOCUS: CRM · ERP · Business Mgmt
+```
+<a href="https://github.com/MuhamadArhum?tab=repositories">▶ ACCESS FILE</a>
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## 📊 THE DIRECTOR'S CUT
+## `> LIVE_TELEMETRY`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhamadArhum&show_icons=true&hide_border=true&bg_color=050816&title_color=00D4FF&text_color=CBD5E1&icon_color=8B5CF6&rank_icon=github" alt="GitHub Statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadArhum&layout=compact&hide_border=true&bg_color=050816&title_color=00D4FF&text_color=CBD5E1" alt="Most Used Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MuhamadArhum&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff9c&text_color=a7f3d0&icon_color=00d4ff&ring_color=00ff9c&rank_icon=github" alt="Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadArhum&layout=compact&hide_border=true&bg_color=000000&title_color=00ff9c&text_color=a7f3d0" alt="Languages"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhamadArhum&bg_color=050816&color=CBD5E1&line=00D4FF&point=8B5CF6&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MuhamadArhum&bg_color=000000&color=00ff9c&line=00ff9c&point=00d4ff&area=true&area_color=00ff9c&hide_border=true" alt="Activity Graph"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhamadArhum&background=000000&ring=00ff9c&fire=00d4ff&currStreakLabel=00ff9c&sideLabels=a7f3d0&currStreakNum=ffffff&sideNums=ffffff&dates=6b7280&stroke=00ff9c33&hide_border=true" alt="Streak"/>
 
 </div>
 
 ---
 
-## 🎞️ BEHIND THE CODE
+## `> SYSTEM_STATUS`
 
-* 🔭 **Currently focused on:** Building practical software and digital solutions.
-* 🤖 **Interested in:** AI, automation, and intelligent applications.
-* 💻 **Building with:** Modern development tools and technologies.
-* 🧩 **My approach:** Understand the problem, simplify the solution, and build with purpose.
-* 🤝 **Open to:** Meaningful collaborations and exciting projects.
-* 🌍 **Location:** Pakistan.
+```ini
+[CURRENT_FOCUS]   Building practical software and digital solutions
+[INTERESTS]       AI, automation, intelligent applications
+[BUILD_STACK]     Modern development tools and technologies
+[APPROACH]        Understand the problem > Simplify the solution > Build with purpose
+[AVAILABILITY]    Open to meaningful collaborations and exciting projects
+[LOCATION]        Pakistan
+```
 
 ---
 
-## 🌌 THE NEXT CHAPTER
-
 <div align="center">
 
-### THINK BIGGER. BUILD SMARTER. KEEP SHIPPING.
+### `> THINK BIGGER. BUILD SMARTER. KEEP SHIPPING._`
 
 <br/>
 
 <a href="https://github.com/MuhamadArhum?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-050816?style=for-the-badge&logo=github&logoColor=00D4FF" alt="Explore My Work"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-000000?style=for-the-badge&logo=github&logoColor=00ff9c&labelColor=000000&color=00ff9c" alt="Explore"/>
 </a>
-
 <a href="https://github.com/MuhamadArhum">
-<img src="https://img.shields.io/badge/FOLLOW%20MY%20JOURNEY-050816?style=for-the-badge&logo=github&logoColor=8B5CF6" alt="Follow My Journey"/>
+<img src="https://img.shields.io/badge/FOLLOW%20MY%20JOURNEY-000000?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=000000&color=00d4ff" alt="Follow"/>
 </a>
 
-<br/><br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00ff9c,50:001a0f,100:000000" alt="Footer"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:00d4ff,45:312e81,100:050816" alt="Cinematic Footer"/>
+**`[ INNOVATE. CONNECT. GROW. ]`**
 
-**Innovate. Connect. Grow.**
-
-<sub>Designed with a cinematic vibe · Powered by curiosity, code, and coffee ☕</sub>
+<sub>`> Powered by curiosity, code, and coffee ☕ | END_OF_TRANSMISSION`</sub>
 
 </div>
